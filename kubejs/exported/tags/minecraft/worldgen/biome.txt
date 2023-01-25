@@ -1,0 +1,2506 @@
+To refresh this file, delete it and run /reload command again! Last updated: Jan 20, 2023, 1:16:24 AM
+
+#minecraft:has_structure/nether_fortress
+- #minecraft:is_nether (from Default)
+
+#forge:is_slope
+- minecraft:savanna_plateau (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:wooded_badlands (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:meadow (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:grove (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:snowy_slopes (from forge-1.19.2-43.2.3-universal.jar)
+
+#supplementaries:has_cave_urns
+- #minecraft:is_overworld (from Supplementaries Generated Pack)
+
+#ferdinandsflowers:is_purple
+- minecraft:sparse_jungle (from ferdinandsflowers-2.0-1.19.2.jar)
+- minecraft:swamp (from ferdinandsflowers-2.0-1.19.2.jar)
+- minecraft:dark_forest (from ferdinandsflowers-2.0-1.19.2.jar)
+
+#minecraft:has_structure/mineshaft
+- #minecraft:is_ocean (from Default)
+- #minecraft:is_river (from Default)
+- #minecraft:is_beach (from Default)
+- #minecraft:is_mountain (from Default)
+- #minecraft:is_hill (from Default)
+- #minecraft:is_taiga (from Default)
+- #minecraft:is_jungle (from Default)
+- #minecraft:is_forest (from Default)
+- minecraft:stony_shore (from Default)
+- minecraft:mushroom_fields (from Default)
+- minecraft:ice_spikes (from Default)
+- minecraft:windswept_savanna (from Default)
+- minecraft:desert (from Default)
+- minecraft:savanna (from Default)
+- minecraft:snowy_plains (from Default)
+- minecraft:plains (from Default)
+- minecraft:sunflower_plains (from Default)
+- minecraft:swamp (from Default)
+- minecraft:mangrove_swamp (from Default)
+- minecraft:savanna_plateau (from Default)
+- minecraft:dripstone_caves (from Default)
+- minecraft:lush_caves (from Default)
+- darkerdepths:molten_cavern (from DarkerDepths-1.19-1.0.6-patch3.jar)
+- darkerdepths:sandy_catacombs (from DarkerDepths-1.19-1.0.6-patch3.jar)
+- darkerdepths:glowshroom_forest (from DarkerDepths-1.19-1.0.6-patch3.jar)
+- biomesoplenty:cold_desert? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:dryland? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:glowing_grotto? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:grassland? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:lavender_field? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:lush_desert? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:lush_savanna? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:pasture? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:prairie? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:rocky_shrubland? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:scrubland? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:shrubland? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:snowy_coniferous_forest? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:snowy_fir_clearing? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:snowy_maple_woods? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:spider_nest? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:volcanic_plains? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:volcano? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:wasteland? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:wooded_wasteland? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#croptopia:has_crop/coffee_beans
+- minecraft:jungle (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:sparse_jungle (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:bamboo_jungle (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:jungle_mountains? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:rocky_jungle? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:tropical_jungle? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+
+#ars_nouveau:archwood_biome
+- ars_nouveau:archwood_forest (from ars_nouveau-1.19.2-3.8.0.jar)
+
+#botania:marimorphosis_forest_bonus
+- #minecraft:is_forest (from Botania-1.19.2-436-FORGE.jar)
+
+#minecraft:has_structure/jungle_temple
+- minecraft:bamboo_jungle (from Default)
+- minecraft:jungle (from Default)
+- biomesoplenty:rainforest? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:floodplain? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#ferdinandsflowers:is_beach_thyme
+- minecraft:beach (from ferdinandsflowers-2.0-1.19.2.jar)
+- minecraft:stony_shore (from ferdinandsflowers-2.0-1.19.2.jar)
+
+#croptopia:has_crop/oat
+- minecraft:plains (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:sunflower_plains (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:blooming_plateau? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:blooming_valley? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:highlands? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:steppe? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:valley_clearing? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+
+#ferdinandsflowers:is_fungus_turkey_tail
+- #minecraft:is_taiga (from ferdinandsflowers-2.0-1.19.2.jar)
+- minecraft:forest (from ferdinandsflowers-2.0-1.19.2.jar)
+- minecraft:birch_forest (from ferdinandsflowers-2.0-1.19.2.jar)
+- minecraft:old_growth_birch_forest (from ferdinandsflowers-2.0-1.19.2.jar)
+- minecraft:dark_forest (from ferdinandsflowers-2.0-1.19.2.jar)
+- minecraft:swamp (from ferdinandsflowers-2.0-1.19.2.jar)
+- minecraft:mangrove_swamp (from ferdinandsflowers-2.0-1.19.2.jar)
+- minecraft:mushroom_fields (from ferdinandsflowers-2.0-1.19.2.jar)
+
+#croptopia:has_crop/kiwi
+- minecraft:savanna (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:savanna_plateau (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:windswept_savanna (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:araucaria_savanna? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:baobab_savanna? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:arid_highlands? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:blooming_plateau? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:blooming_valley? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:brushland? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:fractured_savanna? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:highlands? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:savanna_badlands? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:savanna_slopes? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:steppe? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:valley_clearing? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+
+#croptopia:has_crop/rice
+- minecraft:jungle (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:sparse_jungle (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:bamboo_jungle (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:amethyst_canyon? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:amethyst_rainforest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:jungle_mountains? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:rocky_jungle? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:tropical_jungle? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+
+#ferdinandsflowers:is_cyan
+- minecraft:swamp (from ferdinandsflowers-2.0-1.19.2.jar)
+- minecraft:mangrove_swamp (from ferdinandsflowers-2.0-1.19.2.jar)
+
+#minecraft:is_jungle
+- minecraft:bamboo_jungle (from Default)
+- minecraft:jungle (from Default)
+- minecraft:sparse_jungle (from Default)
+- biomesoplenty:floodplain? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:fungal_jungle? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:rainforest? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:rocky_rainforest? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#minecraft:is_ocean
+- #minecraft:is_deep_ocean (from Default)
+- minecraft:frozen_ocean (from Default)
+- minecraft:ocean (from Default)
+- minecraft:cold_ocean (from Default)
+- minecraft:lukewarm_ocean (from Default)
+- minecraft:warm_ocean (from Default)
+
+#ae2:has_meteorites
+- #minecraft:is_overworld? (from appliedenergistics2-forge-12.9.2.jar)
+
+#deeperdarker:has_structure/ancient_temple
+- deeperdarker:otherside_deeplands (from deeperdarker-forge-1.1.6-forge.jar)
+
+#allthemodium:has_structure/piglin_village_biomes
+- allthemodium:crimson_forest (from allthemodium-2.1.5-1.19.2-43.1.1.jar)
+- allthemodium:the_other (from allthemodium-2.1.5-1.19.2-43.1.1.jar)
+
+#forge:is_cold
+- #forge:is_cold/overworld (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:is_cold/nether? (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:is_cold/end (from forge-1.19.2-43.2.3-universal.jar)
+- integrateddynamics:meneglin (from IntegratedDynamics-1.19.2-1.14.6.jar)
+
+#ferdinandsflowers:is_mixed_blue
+- #minecraft:is_forest (from ferdinandsflowers-2.0-1.19.2.jar)
+- minecraft:meadow (from ferdinandsflowers-2.0-1.19.2.jar)
+
+#forge:is_sparse/overworld
+- minecraft:windswept_forest (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:savanna (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:savanna_plateau (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:wooded_badlands (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:snowy_slopes (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:jagged_peaks (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:frozen_peaks (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:windswept_gravelly_hills (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:windswept_savanna (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:eroded_badlands (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:dripstone_caves (from forge-1.19.2-43.2.3-universal.jar)
+- biomesoplenty:bog (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:clover_patch (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:cold_desert (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:crag (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:dead_forest (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:dryland (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:fir_clearing (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:grassland (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:highland (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:highland_moor (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:lush_desert (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:lush_savanna (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:marsh (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:muskeg (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:orchard (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:prairie (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:pumpkin_patch (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:shrubland (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:snowy_fir_clearing (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:tundra (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:volcanic_plains (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:volcano (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:wasteland (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:wooded_scrubland (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:wooded_wasteland (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#forge:is_overworld
+- darkerdepths:molten_cavern (from DarkerDepths-1.19-1.0.6-patch3.jar)
+- darkerdepths:sandy_catacombs (from DarkerDepths-1.19-1.0.6-patch3.jar)
+- darkerdepths:glowshroom_forest (from DarkerDepths-1.19-1.0.6-patch3.jar)
+- integrateddynamics:meneglin (from IntegratedDynamics-1.19.2-1.14.6.jar)
+- quark:glimmering_weald (from Quark-3.4-386.jar)
+
+#croptopia:has_crop/basil
+- minecraft:jungle (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:sparse_jungle (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:bamboo_jungle (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:jungle_mountains? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:rocky_jungle? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:tropical_jungle? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+
+#minecraft:has_structure/ocean_ruin_cold
+- minecraft:frozen_ocean (from Default)
+- minecraft:cold_ocean (from Default)
+- minecraft:ocean (from Default)
+- minecraft:deep_frozen_ocean (from Default)
+- minecraft:deep_cold_ocean (from Default)
+- minecraft:deep_ocean (from Default)
+
+#minecraft:produces_corals_from_bonemeal
+- minecraft:warm_ocean (from Default)
+
+#forge:is_desert
+- minecraft:desert (from forge-1.19.2-43.2.3-universal.jar)
+- biomesoplenty:lush_desert (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:cold_desert (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#minecraft:has_structure/stronghold
+- #minecraft:is_overworld (from Default)
+
+#croptopia:has_crop/strawberry
+- minecraft:forest (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:flower_forest (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:birch_forest (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:dark_forest (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:old_growth_birch_forest (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:old_growth_pine_taiga (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:old_growth_spruce_taiga (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:taiga (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:snowy_taiga (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:grove (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:alpine_highlands? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:birch_taiga? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:blooming_plateau? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:blooming_valley? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:cloud_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:highlands? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:lavender_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:lavender_valley? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:moonlight_grove? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:moonlight_valley? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:steppe? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:temperate_highlands? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:valley_clearing? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+
+#blue_skies:everdawn
+- blue_skies:unorthodox_valley (from blue_skies-1.19.2-1.3.20.jar)
+- blue_skies:shaded_woodlands (from blue_skies-1.19.2-1.3.20.jar)
+- blue_skies:crystal_dunes (from blue_skies-1.19.2-1.3.20.jar)
+- blue_skies:sunset_maple_forest (from blue_skies-1.19.2-1.3.20.jar)
+- blue_skies:rising_creek (from blue_skies-1.19.2-1.3.20.jar)
+- blue_skies:moonlit_reservoir (from blue_skies-1.19.2-1.3.20.jar)
+- blue_skies:crystal_roughs (from blue_skies-1.19.2-1.3.20.jar)
+- blue_skies:searing_grassland (from blue_skies-1.19.2-1.3.20.jar)
+- blue_skies:crescent_orchard (from blue_skies-1.19.2-1.3.20.jar)
+- blue_skies:crescent_orchard_lake (from blue_skies-1.19.2-1.3.20.jar)
+- blue_skies:crystal_dunes_spikes (from blue_skies-1.19.2-1.3.20.jar)
+
+#minecraft:has_structure/mineshaft_mesa
+- #minecraft:is_badlands (from Default)
+
+#minecraft:has_structure/ancient_city
+- minecraft:deep_dark (from Default)
+
+#forge:is_peak
+- minecraft:jagged_peaks (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:frozen_peaks (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:stony_peaks (from forge-1.19.2-43.2.3-universal.jar)
+
+#minecraft:has_structure/shipwreck
+- #minecraft:is_ocean (from Default)
+
+#forge:is_wet/overworld
+- minecraft:swamp (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:jungle (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:sparse_jungle (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:beach (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:bamboo_jungle (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:lush_caves (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:mangrove_swamp (from forge-1.19.2-43.2.3-universal.jar)
+- biomesoplenty:bamboo_grove (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:bayou (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:bog (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:cherry_blossom_grove (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:clover_patch (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:field (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:floodplain (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:forested_field (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:fungal_jungle (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:grassland (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:highland_moor (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:marsh (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:muskeg (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:mystic_grove (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:ominous_woods (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:rainforest (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:rocky_rainforest (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:tropics (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:wetland (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#ferdinandsflowers:is_lotus_pink
+- minecraft:river (from ferdinandsflowers-2.0-1.19.2.jar)
+- minecraft:swamp (from ferdinandsflowers-2.0-1.19.2.jar)
+- minecraft:mangrove_swamp (from ferdinandsflowers-2.0-1.19.2.jar)
+
+#minecraft:is_hill
+- minecraft:windswept_hills (from Default)
+- minecraft:windswept_forest (from Default)
+- minecraft:windswept_gravelly_hills (from Default)
+- biomesoplenty:highland? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#croptopia:has_crop/cantaloupe
+- minecraft:forest (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:flower_forest (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:birch_forest (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:dark_forest (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:old_growth_birch_forest (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:grove (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:aspen_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:borealis_grove? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:cherry_blossom_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:cika_woods? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:ebony_woods? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:forgotten_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:red_oak_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:autumnal_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:redwood_thicket? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:fragment_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:twilight_meadow? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:weeping_witch_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:temperate_rainforest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:birch_taiga? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:cloud_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:lavender_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:lavender_valley? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:moonlight_grove? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:moonlight_valley? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:temperate_highlands? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+
+#forge:is_wet
+- #forge:is_wet/overworld (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:is_wet/nether? (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:is_wet/end? (from forge-1.19.2-43.2.3-universal.jar)
+- integrateddynamics:meneglin (from IntegratedDynamics-1.19.2-1.14.6.jar)
+
+#ferdinandsflowers:is_desert_pink
+- #minecraft:is_savanna (from ferdinandsflowers-2.0-1.19.2.jar)
+- #minecraft:is_badlands (from ferdinandsflowers-2.0-1.19.2.jar)
+- minecraft:desert (from ferdinandsflowers-2.0-1.19.2.jar)
+
+#forge:is_cold/end
+- minecraft:the_end (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:small_end_islands (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:end_midlands (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:end_highlands (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:end_barrens (from forge-1.19.2-43.2.3-universal.jar)
+
+#ferdinandsflowers:is_dark_blue
+- #minecraft:is_forest (from ferdinandsflowers-2.0-1.19.2.jar)
+- minecraft:swamp (from ferdinandsflowers-2.0-1.19.2.jar)
+
+#croptopia:has_crop/tea_leaves
+- minecraft:forest (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:flower_forest (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:birch_forest (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:dark_forest (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:old_growth_birch_forest (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:grove (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:birch_taiga? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:cloud_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:lavender_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:lavender_valley? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:moonlight_grove? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:moonlight_valley? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:temperate_highlands? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+
+#waystones:is_swamp
+- minecraft:swamp (from waystones-forge-1.19-11.1.0.jar)
+- minecraft:mangrove_swamp (from waystones-forge-1.19-11.1.0.jar)
+
+#forge:is_mountain
+- #forge:is_peak (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:is_slope (from forge-1.19.2-43.2.3-universal.jar)
+- biomesoplenty:crag (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:highland (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:highland_moor (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:jade_cliffs (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:volcano (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#ferdinandsflowers:is_white
+- #minecraft:is_taiga (from ferdinandsflowers-2.0-1.19.2.jar)
+- #minecraft:is_hill (from ferdinandsflowers-2.0-1.19.2.jar)
+- minecraft:meadow (from ferdinandsflowers-2.0-1.19.2.jar)
+- minecraft:birch_forest (from ferdinandsflowers-2.0-1.19.2.jar)
+- minecraft:old_growth_birch_forest (from ferdinandsflowers-2.0-1.19.2.jar)
+
+#croptopia:has_crop/spinach
+- minecraft:forest (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:flower_forest (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:birch_forest (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:dark_forest (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:old_growth_birch_forest (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:grove (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:birch_taiga? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:cloud_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:lavender_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:lavender_valley? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:moonlight_grove? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:moonlight_valley? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:temperate_highlands? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+
+#ferdinandsflowers:is_clover
+- #minecraft:is_taiga (from ferdinandsflowers-2.0-1.19.2.jar)
+- #minecraft:is_forest (from ferdinandsflowers-2.0-1.19.2.jar)
+- #minecraft:is_hill (from ferdinandsflowers-2.0-1.19.2.jar)
+- #forge:is_swamp (from ferdinandsflowers-2.0-1.19.2.jar)
+- #minecraft:is_jungle (from ferdinandsflowers-2.0-1.19.2.jar)
+- minecraft:meadow (from ferdinandsflowers-2.0-1.19.2.jar)
+
+#botania:marimorphosis_desert_bonus
+- #forge:is_desert (from Botania-1.19.2-436-FORGE.jar)
+- #minecraft:is_savanna (from Botania-1.19.2-436-FORGE.jar)
+
+#ars_nouveau:no_mob_spawn
+- #forge:is_mushroom (from ars_nouveau-1.19.2-3.8.0.jar)
+- minecraft:deep_dark (from ars_nouveau-1.19.2-3.8.0.jar)
+
+#ferdinandsflowers:is_rac_grape
+- #minecraft:is_taiga (from ferdinandsflowers-2.0-1.19.2.jar)
+- #minecraft:is_hill (from ferdinandsflowers-2.0-1.19.2.jar)
+- minecraft:snowy_plains (from ferdinandsflowers-2.0-1.19.2.jar)
+
+#blue_skies:shade_monitor/pink
+- blue_skies:shaded_woodlands (from blue_skies-1.19.2-1.3.20.jar)
+
+#minecraft:has_structure/ruined_portal_ocean
+- #minecraft:is_ocean (from Default)
+
+#forge:is_rare
+- minecraft:mushroom_fields (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:sparse_jungle (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:savanna_plateau (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:sunflower_plains (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:windswept_gravelly_hills (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:flower_forest (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:ice_spikes (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:old_growth_birch_forest (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:old_growth_spruce_taiga (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:windswept_savanna (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:eroded_badlands (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:bamboo_jungle (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:deep_dark (from forge-1.19.2-43.2.3-universal.jar)
+- biomesoplenty:bamboo_grove (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:cherry_blossom_grove (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:dead_forest (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:fungal_jungle (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:jade_cliffs (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:lush_desert (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:lush_savanna (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:muskeg (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:mystic_grove (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:old_growth_dead_forest (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:ominous_woods (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:origin_valley (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:tropics (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:volcanic_plains (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:volcano (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:glowing_grotto (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- quark:glimmering_weald (from Quark-3.4-386.jar)
+
+#ferdinandsflowers:is_fungus_pastel
+- minecraft:birch_forest (from ferdinandsflowers-2.0-1.19.2.jar)
+- minecraft:old_growth_birch_forest (from ferdinandsflowers-2.0-1.19.2.jar)
+
+#minecraft:is_deep_ocean
+- minecraft:deep_frozen_ocean (from Default)
+- minecraft:deep_cold_ocean (from Default)
+- minecraft:deep_ocean (from Default)
+- minecraft:deep_lukewarm_ocean (from Default)
+
+#minecraft:is_nether
+- minecraft:nether_wastes (from Default)
+- minecraft:soul_sand_valley (from Default)
+- minecraft:crimson_forest (from Default)
+- minecraft:warped_forest (from Default)
+- minecraft:basalt_deltas (from Default)
+- biomesoplenty:crystalline_chasm? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:erupting_inferno? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:undergrowth? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:visceral_heap? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:withered_abyss? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#powah:has_dry_ice
+- #c:icy? (from Powah-4.0.6.jar)
+- #forge:is_cold/overworld? (from Powah-4.0.6.jar)
+
+#ars_elemental:has_structure/starbuncle_shrine
+- #minecraft:has_structure/village_plains (from ars_elemental-1.19.2-0.5.7.1.jar)
+- #minecraft:is_forest (from ars_elemental-1.19.2-0.5.7.1.jar)
+
+#croptopia:has_crop/artichoke
+- minecraft:swamp (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:bayou? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:cypress_swamplands? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:white_mangrove_marshes? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:mirage_isles? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:orchid_swamp? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+
+#delightful:salmonberry_spawns
+- #minecraft:is_forest (from Delightful-1.19-3.2.1.jar)
+
+#forge:is_dry
+- #forge:is_dry/overworld (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:is_dry/nether (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:is_dry/end (from forge-1.19.2-43.2.3-universal.jar)
+
+#blue_skies:everbright
+- blue_skies:calming_skies (from blue_skies-1.19.2-1.3.20.jar)
+- blue_skies:brightlands (from blue_skies-1.19.2-1.3.20.jar)
+- blue_skies:slushlands (from blue_skies-1.19.2-1.3.20.jar)
+- blue_skies:frostbitten_forest (from blue_skies-1.19.2-1.3.20.jar)
+- blue_skies:peeking_ocean (from blue_skies-1.19.2-1.3.20.jar)
+- blue_skies:midday_shore (from blue_skies-1.19.2-1.3.20.jar)
+- blue_skies:snow_covered_pines (from blue_skies-1.19.2-1.3.20.jar)
+- blue_skies:deep_peeking_ocean (from blue_skies-1.19.2-1.3.20.jar)
+- blue_skies:brisk_meadow (from blue_skies-1.19.2-1.3.20.jar)
+- blue_skies:polar_highland (from blue_skies-1.19.2-1.3.20.jar)
+- blue_skies:frostbitten_forest_clearing (from blue_skies-1.19.2-1.3.20.jar)
+- blue_skies:brumble_forest (from blue_skies-1.19.2-1.3.20.jar)
+
+#croptopia:has_crop/ginger
+- minecraft:savanna (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:savanna_plateau (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:windswept_savanna (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:arid_highlands? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:brushland? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:fractured_savanna? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:savanna_badlands? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:savanna_slopes? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+
+#croptopia:has_crop/saguaro
+- minecraft:desert (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:atacama_desert? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:windswept_dunes? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:windswept_desert? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:mojave_desert? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:red_rock_valley? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:firecracker_shrubland? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:ancient_sands? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:bryce_canyon? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:desert_canyon? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:desert_oasis? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:desert_spires? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:hot_shrubland? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:painted_mountains? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:red_oasis? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:sandstone_valley? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:warped_mesa? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+
+#forge:is_cave
+- minecraft:lush_caves (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:dripstone_caves (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:deep_dark (from forge-1.19.2-43.2.3-universal.jar)
+- biomesoplenty:glowing_grotto (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:spider_nest (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#ferdinandsflowers:is_desert_purple
+- #minecraft:is_savanna (from ferdinandsflowers-2.0-1.19.2.jar)
+- #minecraft:is_badlands (from ferdinandsflowers-2.0-1.19.2.jar)
+- minecraft:desert (from ferdinandsflowers-2.0-1.19.2.jar)
+
+#croptopia:has_crop/bellpepper
+- minecraft:plains (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:sunflower_plains (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:blooming_plateau? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:blooming_valley? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:highlands? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:steppe? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:valley_clearing? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+
+#croptopia:has_crop/yam
+- minecraft:savanna (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:savanna_plateau (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:windswept_savanna (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:arid_highlands? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:brushland? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:cold_shrubland? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:fractured_savanna? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:rocky_mountains? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:sakura_grove? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:sakura_valley? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:savanna_badlands? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:savanna_slopes? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:scarlet_mountains? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:shield? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:shrubland? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:wintry_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:wintry_lowlands? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+
+#allthemodium:other_biomes
+- allthemodium:soul_sand_valley (from allthemodium-2.1.5-1.19.2-43.1.1.jar)
+- allthemodium:desert_hills (from allthemodium-2.1.5-1.19.2-43.1.1.jar)
+- allthemodium:desert (from allthemodium-2.1.5-1.19.2-43.1.1.jar)
+- allthemodium:warped_forest (from allthemodium-2.1.5-1.19.2-43.1.1.jar)
+- allthemodium:crimson_forest (from allthemodium-2.1.5-1.19.2-43.1.1.jar)
+- allthemodium:the_other (from allthemodium-2.1.5-1.19.2-43.1.1.jar)
+- allthemodium:basalt_deltas (from allthemodium-2.1.5-1.19.2-43.1.1.jar)
+
+#minecraft:more_frequent_drowned_spawns
+- #minecraft:is_river (from Default)
+
+#minecraft:has_structure/village_desert
+- minecraft:desert (from Default)
+- biomesoplenty:lush_desert? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#minecraft:is_forest
+- minecraft:forest (from Default)
+- minecraft:flower_forest (from Default)
+- minecraft:birch_forest (from Default)
+- minecraft:old_growth_birch_forest (from Default)
+- minecraft:dark_forest (from Default)
+- minecraft:grove (from Default)
+- biomesoplenty:bamboo_grove? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:cherry_blossom_grove? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:mediterranean_forest? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:mystic_grove? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:orchard? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:pumpkin_patch? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:redwood_forest? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:seasonal_forest? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:seasonal_orchard? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:woodland? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- #ars_nouveau:archwood_biome (from ars_nouveau-1.19.2-3.8.0.jar)
+
+#supplementaries:has_way_signs
+- #minecraft:is_overworld (from Supplementaries Generated Pack)
+
+#minecraft:allows_tropical_fish_spawns_at_any_height
+- minecraft:lush_caves (from Default)
+
+#croptopia:has_crop/eggplant
+- minecraft:jungle (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:sparse_jungle (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:bamboo_jungle (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:jungle_mountains? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:rocky_jungle? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:tropical_jungle? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+
+#croptopia:has_crop/greenonion
+- minecraft:jungle (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:sparse_jungle (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:bamboo_jungle (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:amethyst_canyon? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:amethyst_rainforest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:jungle_mountains? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:rocky_jungle? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:tropical_jungle? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+
+#supplementaries:has_basalt_ash
+- minecraft:basalt_deltas (from Supplementaries Generated Pack)
+
+#croptopia:has_crop/blackberry
+- minecraft:forest (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:flower_forest (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:birch_forest (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:dark_forest (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:old_growth_birch_forest (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:old_growth_pine_taiga (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:old_growth_spruce_taiga (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:taiga (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:snowy_taiga (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:grove (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:aspen_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:black_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:borealis_grove? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:cherry_blossom_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:cika_woods? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:coniferous_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:ebony_woods? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:forgotten_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:maple_taiga? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:red_oak_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:autumnal_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:autumnal_taiga? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:redwood_thicket? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:frosted_taiga? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:frosted_coniferous_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:fragment_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:twilight_meadow? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:weeping_witch_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:temperate_rainforest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:zelkova_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:alpine_grove? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:alpine_highlands? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:birch_taiga? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:cloud_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:forested_highlands? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:lavender_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:lavender_valley? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:lush_valley? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:moonlight_grove? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:moonlight_valley? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:siberian_grove? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:siberian_taiga? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:snowy_maple_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:snowy_shield? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:temperate_highlands? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:yosemite_lowlands? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+
+#minecraft:polar_bears_spawn_on_alternate_blocks
+- minecraft:frozen_ocean (from Default)
+- minecraft:deep_frozen_ocean (from Default)
+
+#minecraft:has_structure/village_plains
+- minecraft:plains (from Default)
+- minecraft:meadow (from Default)
+- biomesoplenty:grassland? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:mediterranean_forest? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:prairie? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:shrubland? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- #ars_nouveau:archwood_biome (from ars_nouveau-1.19.2-3.8.0.jar)
+
+#croptopia:has_crop/honeydew
+- minecraft:jungle (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:sparse_jungle (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:bamboo_jungle (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:jungle_mountains? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:rocky_jungle? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:tropical_jungle? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+
+#croptopia:has_crop/soybean
+- minecraft:plains (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:sunflower_plains (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:blooming_plateau? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:blooming_valley? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:highlands? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:steppe? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:valley_clearing? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+
+#betterstrongholds:has_structure/better_stronghold
+- #minecraft:is_mountain (from YungsBetterStrongholds-1.19.2-Forge-3.2.0.jar)
+- #minecraft:is_badlands (from YungsBetterStrongholds-1.19.2-Forge-3.2.0.jar)
+- #forge:is_mesa? (from YungsBetterStrongholds-1.19.2-Forge-3.2.0.jar)
+- #c:in_mesa? (from YungsBetterStrongholds-1.19.2-Forge-3.2.0.jar)
+- #forge:is_badlands? (from YungsBetterStrongholds-1.19.2-Forge-3.2.0.jar)
+- #minecraft:is_hill (from YungsBetterStrongholds-1.19.2-Forge-3.2.0.jar)
+- #minecraft:is_taiga (from YungsBetterStrongholds-1.19.2-Forge-3.2.0.jar)
+- #minecraft:is_jungle (from YungsBetterStrongholds-1.19.2-Forge-3.2.0.jar)
+- #forge:is_jungle? (from YungsBetterStrongholds-1.19.2-Forge-3.2.0.jar)
+- #c:in_jungle? (from YungsBetterStrongholds-1.19.2-Forge-3.2.0.jar)
+- #minecraft:is_forest (from YungsBetterStrongholds-1.19.2-Forge-3.2.0.jar)
+- #forge:is_forest? (from YungsBetterStrongholds-1.19.2-Forge-3.2.0.jar)
+- #c:forest? (from YungsBetterStrongholds-1.19.2-Forge-3.2.0.jar)
+- minecraft:stony_shore (from YungsBetterStrongholds-1.19.2-Forge-3.2.0.jar)
+- minecraft:mushroom_fields (from YungsBetterStrongholds-1.19.2-Forge-3.2.0.jar)
+- #forge:is_mushroom? (from YungsBetterStrongholds-1.19.2-Forge-3.2.0.jar)
+- #c:mushroom? (from YungsBetterStrongholds-1.19.2-Forge-3.2.0.jar)
+- minecraft:ice_spikes (from YungsBetterStrongholds-1.19.2-Forge-3.2.0.jar)
+- #byg:is_icy? (from YungsBetterStrongholds-1.19.2-Forge-3.2.0.jar)
+- #forge:is_icy? (from YungsBetterStrongholds-1.19.2-Forge-3.2.0.jar)
+- #c:icy? (from YungsBetterStrongholds-1.19.2-Forge-3.2.0.jar)
+- minecraft:desert (from YungsBetterStrongholds-1.19.2-Forge-3.2.0.jar)
+- #forge:is_desert? (from YungsBetterStrongholds-1.19.2-Forge-3.2.0.jar)
+- #c:desert? (from YungsBetterStrongholds-1.19.2-Forge-3.2.0.jar)
+- minecraft:savanna (from YungsBetterStrongholds-1.19.2-Forge-3.2.0.jar)
+- minecraft:snowy_plains (from YungsBetterStrongholds-1.19.2-Forge-3.2.0.jar)
+- minecraft:plains (from YungsBetterStrongholds-1.19.2-Forge-3.2.0.jar)
+- #c:plains? (from YungsBetterStrongholds-1.19.2-Forge-3.2.0.jar)
+- minecraft:sunflower_plains (from YungsBetterStrongholds-1.19.2-Forge-3.2.0.jar)
+- minecraft:swamp (from YungsBetterStrongholds-1.19.2-Forge-3.2.0.jar)
+- minecraft:savanna (from YungsBetterStrongholds-1.19.2-Forge-3.2.0.jar)
+- minecraft:savanna_plateau (from YungsBetterStrongholds-1.19.2-Forge-3.2.0.jar)
+- #forge:is_savanna? (from YungsBetterStrongholds-1.19.2-Forge-3.2.0.jar)
+- #c:savanna? (from YungsBetterStrongholds-1.19.2-Forge-3.2.0.jar)
+- minecraft:windswept_savanna (from YungsBetterStrongholds-1.19.2-Forge-3.2.0.jar)
+- minecraft:dripstone_caves (from YungsBetterStrongholds-1.19.2-Forge-3.2.0.jar)
+- minecraft:lush_caves (from YungsBetterStrongholds-1.19.2-Forge-3.2.0.jar)
+
+#delightful:mini_melon_spawns
+- #forge:is_plains (from Delightful-1.19-3.2.1.jar)
+
+#aquaculture:empty
+
+#hexerei:has_structure/witch_hut_biomes
+- minecraft:swamp (from hexerei-0.2.5.jar)
+
+#forge:is_coniferous
+- minecraft:taiga (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:snowy_taiga (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:old_growth_pine_taiga (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:grove (from forge-1.19.2-43.2.3-universal.jar)
+- biomesoplenty:coniferous_forest (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:fir_clearing (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:field (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:forested_field (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:jade_cliffs (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:maple_woods (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:ominous_woods (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:snowy_coniferous_forest (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:snowy_fir_clearing (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:snowy_maple_woods (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- integrateddynamics:meneglin (from IntegratedDynamics-1.19.2-1.14.6.jar)
+
+#waystones:is_mushroom
+- minecraft:mushroom_fields (from waystones-forge-1.19-11.1.0.jar)
+
+#forge:is_snowy
+- minecraft:frozen_ocean (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:frozen_river (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:snowy_plains (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:snowy_beach (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:snowy_taiga (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:grove (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:snowy_slopes (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:jagged_peaks (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:frozen_peaks (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:ice_spikes (from forge-1.19.2-43.2.3-universal.jar)
+- biomesoplenty:auroral_garden (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:cold_desert (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:muskeg (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:snowy_coniferous_forest (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:snowy_fir_clearing (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:snowy_maple_woods (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#croptopia:has_crop/garlic
+- minecraft:jungle (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:sparse_jungle (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:bamboo_jungle (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:crag_gardens? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:guiana_shield? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:jacaranda_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:tropical_rainforest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:jungle_mountains? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:rocky_jungle? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:tropical_jungle? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+
+#croptopia:has_crop/mustard
+- minecraft:plains (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:sunflower_plains (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:blooming_plateau? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:blooming_valley? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:highlands? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:steppe? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:valley_clearing? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+
+#ferdinandsflowers:is_jungle_orange
+- minecraft:jungle (from ferdinandsflowers-2.0-1.19.2.jar)
+- minecraft:bamboo_jungle (from ferdinandsflowers-2.0-1.19.2.jar)
+
+#minecraft:has_structure/swamp_hut
+- minecraft:swamp (from Default)
+- biomesoplenty:bog? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:bayou? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:marsh? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:wetland? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#creeperoverhaul:where_creepers_spawn
+- #minecraft:is_taiga (from creeperoverhaul-2.0.6-forge.jar)
+- #forge:is_snowy (from creeperoverhaul-2.0.6-forge.jar)
+- #minecraft:is_savanna (from creeperoverhaul-2.0.6-forge.jar)
+- #minecraft:is_jungle (from creeperoverhaul-2.0.6-forge.jar)
+- #minecraft:is_hill (from creeperoverhaul-2.0.6-forge.jar)
+- #minecraft:has_structure/desert_pyramid (from creeperoverhaul-2.0.6-forge.jar)
+- #minecraft:is_beach (from creeperoverhaul-2.0.6-forge.jar)
+- #minecraft:is_jungle (from creeperoverhaul-2.0.6-forge.jar)
+- #minecraft:has_structure/mineshaft_mesa (from creeperoverhaul-2.0.6-forge.jar)
+- #minecraft:has_structure/ruined_portal_swamp (from creeperoverhaul-2.0.6-forge.jar)
+- minecraft:mushroom_fields (from creeperoverhaul-2.0.6-forge.jar)
+- minecraft:stony_peaks (from creeperoverhaul-2.0.6-forge.jar)
+- minecraft:dripstone_caves (from creeperoverhaul-2.0.6-forge.jar)
+- minecraft:lush_caves (from creeperoverhaul-2.0.6-forge.jar)
+- minecraft:lukewarm_ocean (from creeperoverhaul-2.0.6-forge.jar)
+- minecraft:deep_lukewarm_ocean (from creeperoverhaul-2.0.6-forge.jar)
+- minecraft:warm_ocean (from creeperoverhaul-2.0.6-forge.jar)
+
+#croptopia:has_crop/barley
+- minecraft:plains (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:sunflower_plains (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:old_growth_pine_taiga (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:old_growth_spruce_taiga (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:taiga (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:snowy_taiga (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:blooming_plateau? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:blooming_valley? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:highlands? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:steppe? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:valley_clearing? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+
+#forge:is_water
+- #minecraft:is_ocean (from forge-1.19.2-43.2.3-universal.jar)
+- #minecraft:is_river (from forge-1.19.2-43.2.3-universal.jar)
+
+#minecraft:has_structure/ruined_portal_nether
+- #minecraft:is_nether (from Default)
+
+#minecraft:only_allows_snow_and_gold_rabbits
+- minecraft:desert (from Default)
+
+#croptopia:has_crop/squash
+- minecraft:old_growth_pine_taiga (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:old_growth_spruce_taiga (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:taiga (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:snowy_taiga (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:savanna (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:savanna_plateau (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:windswept_savanna (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:alpine_grove? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:arid_highlands? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:brushland? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:cold_shrubland? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:forested_highlands? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:fractured_savanna? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:lush_valley? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:rocky_mountains? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:sakura_grove? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:sakura_valley? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:savanna_badlands? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:savanna_slopes? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:scarlet_mountains? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:shield? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:shrubland? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:siberian_grove? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:siberian_taiga? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:snowy_maple_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:snowy_shield? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:wintry_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:wintry_lowlands? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:yosemite_lowlands? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+
+#minecraft:stronghold_biased_to
+- minecraft:plains (from Default)
+- minecraft:sunflower_plains (from Default)
+- minecraft:snowy_plains (from Default)
+- minecraft:ice_spikes (from Default)
+- minecraft:desert (from Default)
+- minecraft:forest (from Default)
+- minecraft:flower_forest (from Default)
+- minecraft:birch_forest (from Default)
+- minecraft:dark_forest (from Default)
+- minecraft:old_growth_birch_forest (from Default)
+- minecraft:old_growth_pine_taiga (from Default)
+- minecraft:old_growth_spruce_taiga (from Default)
+- minecraft:taiga (from Default)
+- minecraft:snowy_taiga (from Default)
+- minecraft:savanna (from Default)
+- minecraft:savanna_plateau (from Default)
+- minecraft:windswept_hills (from Default)
+- minecraft:windswept_gravelly_hills (from Default)
+- minecraft:windswept_forest (from Default)
+- minecraft:windswept_savanna (from Default)
+- minecraft:jungle (from Default)
+- minecraft:sparse_jungle (from Default)
+- minecraft:bamboo_jungle (from Default)
+- minecraft:badlands (from Default)
+- minecraft:eroded_badlands (from Default)
+- minecraft:wooded_badlands (from Default)
+- minecraft:meadow (from Default)
+- minecraft:grove (from Default)
+- minecraft:snowy_slopes (from Default)
+- minecraft:frozen_peaks (from Default)
+- minecraft:jagged_peaks (from Default)
+- minecraft:stony_peaks (from Default)
+- minecraft:mushroom_fields (from Default)
+- minecraft:dripstone_caves (from Default)
+- minecraft:lush_caves (from Default)
+- darkerdepths:molten_cavern (from DarkerDepths-1.19-1.0.6-patch3.jar)
+- darkerdepths:sandy_catacombs (from DarkerDepths-1.19-1.0.6-patch3.jar)
+- darkerdepths:glowshroom_forest (from DarkerDepths-1.19-1.0.6-patch3.jar)
+- biomesoplenty:auroral_garden? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:bamboo_grove? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:bayou? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:bog? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:cherry_blossom_grove? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:clover_patch? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:cold_desert? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:coniferous_forest? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:crag? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:dead_forest? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:dryland? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:dune_beach? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:field? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:fir_clearing? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:floodplain? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:forested_field? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:fungal_jungle? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:glowing_grotto? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:grassland? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:highland? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:highland_moor? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:jade_cliffs? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:lavender_field? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:lavender_forest? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:lush_desert? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:lush_savanna? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:maple_woods? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:marsh? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:mediterranean_forest? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:muskeg? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:mystic_grove? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:old_growth_dead_forest? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:old_growth_woodland? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:ominous_woods? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:orchard? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:pasture? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:prairie? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:pumpkin_patch? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:rainforest? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:redwood_forest? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:rocky_rainforest? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:rocky_shrubland? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:scrubland? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:seasonal_forest? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:seasonal_orchard? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:shrubland? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:snowy_coniferous_forest? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:snowy_fir_clearing? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:snowy_maple_woods? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:spider_nest? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:tropics? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:tundra? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:volcanic_plains? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:volcano? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:wasteland? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:wetland? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:wooded_scrubland? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:wooded_wasteland? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:woodland? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#forge:is_magical
+- biomesoplenty:auroral_garden (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:fungal_jungle (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:jade_cliffs (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:mystic_grove (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:crystalline_chasm (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- quark:glimmering_weald (from Quark-3.4-386.jar)
+
+#forge:is_dry/nether
+- minecraft:nether_wastes (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:soul_sand_valley (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:crimson_forest (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:warped_forest (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:basalt_deltas (from forge-1.19.2-43.2.3-universal.jar)
+- biomesoplenty:crystalline_chasm (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:erupting_inferno (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:undergrowth (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:visceral_heap (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:withered_abyss (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#minecraft:is_beach
+- minecraft:beach (from Default)
+- minecraft:snowy_beach (from Default)
+- biomesoplenty:dune_beach? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#minecraft:has_structure/ruined_portal_standard
+- #minecraft:is_beach (from Default)
+- #minecraft:is_river (from Default)
+- #minecraft:is_taiga (from Default)
+- #minecraft:is_forest (from Default)
+- minecraft:mushroom_fields (from Default)
+- minecraft:ice_spikes (from Default)
+- minecraft:dripstone_caves (from Default)
+- minecraft:lush_caves (from Default)
+- minecraft:savanna (from Default)
+- minecraft:snowy_plains (from Default)
+- minecraft:plains (from Default)
+- minecraft:sunflower_plains (from Default)
+- darkerdepths:molten_cavern (from DarkerDepths-1.19-1.0.6-patch3.jar)
+- darkerdepths:sandy_catacombs (from DarkerDepths-1.19-1.0.6-patch3.jar)
+- darkerdepths:glowshroom_forest (from DarkerDepths-1.19-1.0.6-patch3.jar)
+- biomesoplenty:auroral_garden? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:dryland? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:scrubland? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:grassland? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:lavender_field? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:pasture? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:prairie? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:rocky_shrubland? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:shrubland? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:snowy_coniferous_forest? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:snowy_fir_clearing? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:snowy_maple_woods? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#ferdinandsflowers:is_cranberry
+- #minecraft:is_taiga (from ferdinandsflowers-2.0-1.19.2.jar)
+- minecraft:snowy_plains (from ferdinandsflowers-2.0-1.19.2.jar)
+
+#minecraft:has_structure/pillager_outpost
+- minecraft:desert (from Default)
+- minecraft:plains (from Default)
+- minecraft:savanna (from Default)
+- minecraft:snowy_plains (from Default)
+- minecraft:taiga (from Default)
+- #minecraft:is_mountain (from Default)
+- minecraft:grove (from Default)
+- biomesoplenty:lush_desert? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:grassland? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:mediterranean_forest? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:prairie? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:shrubland? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:dryland? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:cold_desert? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:snowy_coniferous_forest? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:coniferous_forest? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:dead_forest? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:field? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:maple_woods? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:tundra? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#botania:mystical_flower_spawnlist
+- #minecraft:is_overworld (from Botania-1.19.2-436-FORGE.jar)
+
+#forge:is_sparse
+- #forge:is_sparse/overworld (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:is_sparse/nether? (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:is_sparse/end? (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:is_swamp
+- minecraft:swamp (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:mangrove_swamp (from forge-1.19.2-43.2.3-universal.jar)
+- biomesoplenty:bayou (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:bog (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:floodplain (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:highland_moor (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:marsh (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:muskeg (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:wetland (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- hexerei:willow_swamp (from hexerei-0.2.5.jar)
+
+#croptopia:has_crop/peanut
+- minecraft:jungle (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:sparse_jungle (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:bamboo_jungle (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:crag_gardens? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:guiana_shield? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:jacaranda_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:tropical_rainforest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:jungle_mountains? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:rocky_jungle? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:tropical_jungle? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+
+#minecraft:is_mountain
+- minecraft:meadow (from Default)
+- minecraft:frozen_peaks (from Default)
+- minecraft:jagged_peaks (from Default)
+- minecraft:stony_peaks (from Default)
+- minecraft:snowy_slopes (from Default)
+- biomesoplenty:crag? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:jade_cliffs? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#blue_skies:shade_monitor/purple
+- blue_skies:unorthodox_valley (from blue_skies-1.19.2-1.3.20.jar)
+
+#minecraft:is_badlands
+- minecraft:badlands (from Default)
+- minecraft:eroded_badlands (from Default)
+- minecraft:wooded_badlands (from Default)
+
+#forge:is_dry/end
+- minecraft:the_end (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:small_end_islands (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:end_midlands (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:end_highlands (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:end_barrens (from forge-1.19.2-43.2.3-universal.jar)
+
+#croptopia:has_crop/celery
+- minecraft:forest (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:flower_forest (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:birch_forest (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:dark_forest (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:old_growth_birch_forest (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:grove (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:aspen_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:borealis_grove? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:cherry_blossom_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:cika_woods? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:ebony_woods? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:forgotten_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:red_oak_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:autumnal_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:redwood_thicket? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:fragment_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:twilight_meadow? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:weeping_witch_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:temperate_rainforest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:birch_taiga? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:cloud_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:lavender_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:lavender_valley? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:moonlight_grove? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:moonlight_valley? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:temperate_highlands? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+
+#minecraft:has_structure/nether_fossil
+- minecraft:soul_sand_valley (from Default)
+- minecraft:soul_sand_valley (from deeperdarker-forge-1.1.6-forge.jar)
+- deeperdarker:otherside_deeplands (from deeperdarker-forge-1.1.6-forge.jar)
+
+#forge:is_cold/overworld
+- minecraft:taiga (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:frozen_ocean (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:frozen_river (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:snowy_plains (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:snowy_beach (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:snowy_taiga (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:old_growth_pine_taiga (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:grove (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:snowy_slopes (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:jagged_peaks (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:frozen_peaks (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:cold_ocean (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:deep_cold_ocean (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:deep_frozen_ocean (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:ice_spikes (from forge-1.19.2-43.2.3-universal.jar)
+- biomesoplenty:auroral_garden (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:bog (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:cold_desert (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:dead_forest (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:maple_woods (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:muskeg (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:old_growth_dead_forest (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:ominous_woods (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:snowy_coniferous_forest (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:snowy_fir_clearing (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:snowy_maple_woods (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:tundra (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#minecraft:has_structure/end_city
+- minecraft:end_highlands (from Default)
+- minecraft:end_midlands (from Default)
+
+#croptopia:has_crop/grape
+- minecraft:forest (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:flower_forest (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:birch_forest (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:dark_forest (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:old_growth_birch_forest (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:grove (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:birch_taiga? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:cloud_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:lavender_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:lavender_valley? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:moonlight_grove? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:moonlight_valley? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:temperate_highlands? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+
+#forge:is_dense/overworld
+- minecraft:jungle (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:dark_forest (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:old_growth_birch_forest (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:old_growth_spruce_taiga (from forge-1.19.2-43.2.3-universal.jar)
+- biomesoplenty:auroral_garden (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:coniferous_forest (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:lavender_forest (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:maple_woods (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:old_growth_woodland (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:rainforest (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:redwood_forest (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:rocky_rainforest (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:snowy_maple_woods (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#allthemodium:mining_features/mining_biomes
+- allthemodium:mining (from allthemodium-2.1.5-1.19.2-43.1.1.jar)
+- allthemodium:soul_sand_valley (from allthemodium-2.1.5-1.19.2-43.1.1.jar)
+- allthemodium:desert_hills (from allthemodium-2.1.5-1.19.2-43.1.1.jar)
+- allthemodium:desert (from allthemodium-2.1.5-1.19.2-43.1.1.jar)
+- allthemodium:warped_forest (from allthemodium-2.1.5-1.19.2-43.1.1.jar)
+- allthemodium:crimson_forest (from allthemodium-2.1.5-1.19.2-43.1.1.jar)
+- allthemodium:the_other (from allthemodium-2.1.5-1.19.2-43.1.1.jar)
+
+#productivebees:is_beach_or_river
+- #minecraft:is_beach (from productivebees-1.19.2-0.10.4.0.jar)
+- #minecraft:is_river (from productivebees-1.19.2-0.10.4.0.jar)
+
+#minecraft:has_structure/bastion_remnant
+- minecraft:crimson_forest (from Default)
+- minecraft:nether_wastes (from Default)
+- minecraft:soul_sand_valley (from Default)
+- minecraft:warped_forest (from Default)
+- biomesoplenty:crystalline_chasm? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:erupting_inferno? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:undergrowth? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:visceral_heap? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:withered_abyss? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#ferdinandsflowers:is_beach_pink
+- minecraft:beach (from ferdinandsflowers-2.0-1.19.2.jar)
+- minecraft:stony_shore (from ferdinandsflowers-2.0-1.19.2.jar)
+
+#minecraft:has_structure/ruined_portal_mountain
+- #minecraft:is_badlands (from Default)
+- #minecraft:is_hill (from Default)
+- minecraft:savanna_plateau (from Default)
+- minecraft:windswept_savanna (from Default)
+- minecraft:stony_shore (from Default)
+- #minecraft:is_mountain (from Default)
+- #minecraft:is_badlands (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- #minecraft:is_hill (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- minecraft:savanna_plateau (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- minecraft:windswept_savanna (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- minecraft:stony_shore (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- #minecraft:is_mountain (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#croptopia:has_crop/raspberry
+- minecraft:forest (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:flower_forest (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:birch_forest (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:dark_forest (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:old_growth_birch_forest (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:old_growth_pine_taiga (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:old_growth_spruce_taiga (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:taiga (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:snowy_taiga (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:grove (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:aspen_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:black_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:borealis_grove? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:cherry_blossom_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:cika_woods? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:coniferous_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:ebony_woods? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:forgotten_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:maple_taiga? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:red_oak_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:autumnal_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:autumnal_taiga? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:redwood_thicket? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:frosted_taiga? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:frosted_coniferous_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:fragment_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:twilight_meadow? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:weeping_witch_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:temperate_rainforest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:zelkova_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:birch_taiga? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:cloud_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:lavender_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:lavender_valley? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:moonlight_grove? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:moonlight_valley? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:temperate_highlands? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+
+#croptopia:has_crop/chile_pepper
+- minecraft:plains (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:sunflower_plains (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+
+#minecraft:water_on_map_outlines
+- #minecraft:is_ocean (from Default)
+- #minecraft:is_river (from Default)
+- minecraft:swamp (from Default)
+- minecraft:mangrove_swamp (from Default)
+
+#minecraft:is_river
+- minecraft:river (from Default)
+- minecraft:frozen_river (from Default)
+
+#croptopia:has_crop/turnip
+- minecraft:jungle (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:sparse_jungle (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:bamboo_jungle (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:crag_gardens? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:guiana_shield? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:jacaranda_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:tropical_rainforest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:jungle_mountains? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:rocky_jungle? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:tropical_jungle? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+
+#croptopia:has_crop/tomato
+- minecraft:forest (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:flower_forest (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:birch_forest (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:dark_forest (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:old_growth_birch_forest (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:grove (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:birch_taiga? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:cloud_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:lavender_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:lavender_valley? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:moonlight_grove? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:moonlight_valley? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:temperate_highlands? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+
+#ars_nouveau:berry_spawn
+- #minecraft:is_taiga (from ars_nouveau-1.19.2-3.8.0.jar)
+- ars_nouveau:archwood_forest (from ars_nouveau-1.19.2-3.8.0.jar)
+
+#croptopia:has_crop/cucumber
+- minecraft:plains (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:sunflower_plains (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:allium_fields? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:amaranth_fields? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:autumnal_valley? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:temperate_grove? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:coconino_meadow? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:orchard? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:prairie? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:rose_fields? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:sierra_badlands? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:blooming_plateau? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:blooming_valley? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:highlands? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:steppe? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:valley_clearing? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+
+#evilcraft:has_structure/dark_temple
+- #minecraft:is_river (from EvilCraft-1.19.2-1.2.13.jar)
+- #minecraft:is_beach (from EvilCraft-1.19.2-1.2.13.jar)
+- #minecraft:is_mountain (from EvilCraft-1.19.2-1.2.13.jar)
+- #minecraft:is_hill (from EvilCraft-1.19.2-1.2.13.jar)
+- #minecraft:is_taiga (from EvilCraft-1.19.2-1.2.13.jar)
+- #minecraft:is_jungle (from EvilCraft-1.19.2-1.2.13.jar)
+- #minecraft:is_forest (from EvilCraft-1.19.2-1.2.13.jar)
+- #minecraft:is_badlands (from EvilCraft-1.19.2-1.2.13.jar)
+- minecraft:stony_shore (from EvilCraft-1.19.2-1.2.13.jar)
+- minecraft:mushroom_fields (from EvilCraft-1.19.2-1.2.13.jar)
+- minecraft:ice_spikes (from EvilCraft-1.19.2-1.2.13.jar)
+- minecraft:windswept_savanna (from EvilCraft-1.19.2-1.2.13.jar)
+- minecraft:desert (from EvilCraft-1.19.2-1.2.13.jar)
+- minecraft:savanna (from EvilCraft-1.19.2-1.2.13.jar)
+- minecraft:snowy_plains (from EvilCraft-1.19.2-1.2.13.jar)
+- minecraft:plains (from EvilCraft-1.19.2-1.2.13.jar)
+- minecraft:sunflower_plains (from EvilCraft-1.19.2-1.2.13.jar)
+- minecraft:swamp (from EvilCraft-1.19.2-1.2.13.jar)
+- minecraft:savanna_plateau (from EvilCraft-1.19.2-1.2.13.jar)
+- minecraft:dripstone_caves (from EvilCraft-1.19.2-1.2.13.jar)
+- minecraft:lush_caves (from EvilCraft-1.19.2-1.2.13.jar)
+
+#ferdinandsflowers:is_iris
+- minecraft:sparse_jungle (from ferdinandsflowers-2.0-1.19.2.jar)
+- minecraft:mangrove_swamp (from ferdinandsflowers-2.0-1.19.2.jar)
+- #minecraft:is_forest (from ferdinandsflowers-2.0-1.19.2.jar)
+- minecraft:swamp (from ferdinandsflowers-2.0-1.19.2.jar)
+
+#botania:marimorphosis_mountain_bonus
+- #minecraft:is_mountain (from Botania-1.19.2-436-FORGE.jar)
+
+#forge:is_hot/nether
+- minecraft:nether_wastes (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:soul_sand_valley (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:crimson_forest (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:warped_forest (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:basalt_deltas (from forge-1.19.2-43.2.3-universal.jar)
+- biomesoplenty:crystalline_chasm (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:erupting_inferno (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:undergrowth (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:visceral_heap (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:withered_abyss (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#croptopia:has_crop/corn
+- minecraft:plains (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:sunflower_plains (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:allium_fields? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:amaranth_fields? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:autumnal_valley? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:temperate_grove? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:coconino_meadow? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:orchard? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:prairie? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:rose_fields? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:sierra_badlands? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:blooming_plateau? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:blooming_valley? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:cold_shrubland? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:highlands? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:rocky_mountains? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:sakura_grove? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:sakura_valley? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:scarlet_mountains? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:shield? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:shrubland? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:steppe? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:valley_clearing? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:wintry_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:wintry_lowlands? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+
+#pneumaticcraft:has_surface_oil_lakes
+- #minecraft:is_overworld (from pneumaticcraft-repressurized-1.19.2-4.2.0-16.jar)
+
+#forge:is_hot/overworld
+- minecraft:desert (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:jungle (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:sparse_jungle (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:savanna (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:savanna_plateau (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:stony_peaks (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:warm_ocean (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:windswept_savanna (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:eroded_badlands (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:bamboo_jungle (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:mangrove_swamp (from forge-1.19.2-43.2.3-universal.jar)
+- biomesoplenty:bayou (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:dryland (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:floodplain (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:fungal_jungle (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:lush_desert (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:lush_savanna (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:rainforest (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:rocky_rainforest (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:shrubland (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:tropics (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:volcanic_plains (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:volcano (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:wasteland (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:wooded_scrubland (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:wooded_wasteland (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#ferdinandsflowers:is_fungus_yellow
+- minecraft:forest (from ferdinandsflowers-2.0-1.19.2.jar)
+- minecraft:mangrove_swamp (from ferdinandsflowers-2.0-1.19.2.jar)
+- #minecraft:is_savanna (from ferdinandsflowers-2.0-1.19.2.jar)
+- minecraft:dark_forest (from ferdinandsflowers-2.0-1.19.2.jar)
+- minecraft:mushroom_fields (from ferdinandsflowers-2.0-1.19.2.jar)
+
+#minecraft:has_structure/buried_treasure
+- #minecraft:is_beach (from Default)
+
+#croptopia:has_crop/vanilla
+- minecraft:jungle (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:sparse_jungle (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:bamboo_jungle (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:amethyst_canyon? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:amethyst_rainforest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:jungle_mountains? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:rocky_jungle? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:tropical_jungle? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+
+#croptopia:has_crop/sweetpotato
+- minecraft:plains (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:sunflower_plains (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:cold_shrubland? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:rocky_mountains? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:sakura_grove? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:sakura_valley? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:scarlet_mountains? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:shield? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:shrubland? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:wintry_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:wintry_lowlands? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+
+#blue_skies:shade_monitor/white
+- blue_skies:crystal_dunes (from blue_skies-1.19.2-1.3.20.jar)
+- blue_skies:crystal_dunes_spikes (from blue_skies-1.19.2-1.3.20.jar)
+
+#blue_skies:shade_monitor/snowy_blue
+- #blue_skies:everbright (from blue_skies-1.19.2-1.3.20.jar)
+
+#blue_skies:shade_monitor/muddy_purple
+- blue_skies:moonlit_reservoir (from blue_skies-1.19.2-1.3.20.jar)
+
+#minecraft:is_savanna
+- minecraft:savanna (from Default)
+- minecraft:savanna_plateau (from Default)
+- minecraft:windswept_savanna (from Default)
+- biomesoplenty:dryland? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:lush_savanna? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:scrubland? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:wooded_scrubland? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#croptopia:has_crop/rutabaga
+- minecraft:old_growth_pine_taiga (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:old_growth_spruce_taiga (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:taiga (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:snowy_taiga (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:savanna (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:savanna_plateau (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:windswept_savanna (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:araucaria_savanna? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:baobab_savanna? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:black_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:coniferous_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:maple_taiga? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:autumnal_taiga? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:frosted_taiga? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:frosted_coniferous_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:zelkova_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:arid_highlands? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:brushland? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:fractured_savanna? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:savanna_badlands? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:savanna_slopes? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+
+#croptopia:has_crop/cauliflower
+- minecraft:forest (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:flower_forest (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:birch_forest (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:dark_forest (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:old_growth_birch_forest (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:grove (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:birch_taiga? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:cloud_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:lavender_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:lavender_valley? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:moonlight_grove? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:moonlight_valley? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:temperate_highlands? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+
+#ferdinandsflowers:is_jungle_pink
+- minecraft:jungle (from ferdinandsflowers-2.0-1.19.2.jar)
+- minecraft:bamboo_jungle (from ferdinandsflowers-2.0-1.19.2.jar)
+
+#forge:is_hot
+- #forge:is_hot/overworld (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:is_hot/nether (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:is_hot/end? (from forge-1.19.2-43.2.3-universal.jar)
+
+#minecraft:has_structure/igloo
+- minecraft:snowy_taiga (from Default)
+- minecraft:snowy_plains (from Default)
+- minecraft:snowy_slopes (from Default)
+- biomesoplenty:cold_desert? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:snowy_coniferous_forest? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:snowy_fir_clearing? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:snowy_maple_woods? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#ferdinandsflowers:is_light_pink
+- #minecraft:is_taiga (from ferdinandsflowers-2.0-1.19.2.jar)
+- #minecraft:is_forest (from ferdinandsflowers-2.0-1.19.2.jar)
+- #minecraft:is_hill (from ferdinandsflowers-2.0-1.19.2.jar)
+
+#minecraft:has_structure/shipwreck_beached
+- #minecraft:is_beach (from Default)
+
+#blue_skies:shade_monitor/red
+- blue_skies:sunset_maple_forest (from blue_skies-1.19.2-1.3.20.jar)
+- blue_skies:searing_grassland (from blue_skies-1.19.2-1.3.20.jar)
+
+#croptopia:has_crop/cranberry
+- minecraft:swamp (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:mirage_isles? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:orchid_swamp? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+
+#croptopia:has_crop/greenbean
+- minecraft:plains (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:sunflower_plains (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:allium_fields? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:amaranth_fields? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:autumnal_valley? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:temperate_grove? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:coconino_meadow? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:orchard? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:prairie? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:rose_fields? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:sierra_badlands? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:blooming_plateau? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:blooming_valley? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:highlands? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:steppe? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:valley_clearing? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+
+#productivebees:is_mountain_or_hill
+- #minecraft:is_mountain (from productivebees-1.19.2-0.10.4.0.jar)
+- #minecraft:is_hill (from productivebees-1.19.2-0.10.4.0.jar)
+
+#waystones:is_desert
+- minecraft:desert (from waystones-forge-1.19-11.1.0.jar)
+
+#ferdinandsflowers:is_jungle_magenta
+- minecraft:jungle (from ferdinandsflowers-2.0-1.19.2.jar)
+- minecraft:bamboo_jungle (from ferdinandsflowers-2.0-1.19.2.jar)
+
+#minecraft:allows_surface_slime_spawns
+- minecraft:swamp (from Default)
+- minecraft:mangrove_swamp (from Default)
+- biomesoplenty:bayou? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:bog? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:floodplain? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:marsh? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:wetland? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#ferdinandsflowers:is_snow_lilac
+- #minecraft:is_hill (from ferdinandsflowers-2.0-1.19.2.jar)
+- minecraft:meadow (from ferdinandsflowers-2.0-1.19.2.jar)
+- minecraft:snowy_taiga (from ferdinandsflowers-2.0-1.19.2.jar)
+- minecraft:snowy_plains (from ferdinandsflowers-2.0-1.19.2.jar)
+
+#ferdinandsflowers:is_fungus_red_forest
+- minecraft:dark_forest (from ferdinandsflowers-2.0-1.19.2.jar)
+- minecraft:mushroom_fields (from ferdinandsflowers-2.0-1.19.2.jar)
+
+#forge:is_plains
+- minecraft:plains (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:snowy_plains (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:meadow (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:sunflower_plains (from forge-1.19.2-43.2.3-universal.jar)
+- biomesoplenty:clover_patch (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:grassland (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:highland (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:lavender_field (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:lush_savanna (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:orchard (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:pasture (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:prairie (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:rocky_shrubland (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:shrubland (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:tundra (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#minecraft:required_ocean_monument_surrounding
+- #minecraft:is_ocean (from Default)
+- #minecraft:is_river (from Default)
+
+#ferdinandsflowers:is_desert_yellow
+- #minecraft:is_savanna (from ferdinandsflowers-2.0-1.19.2.jar)
+- #minecraft:is_badlands (from ferdinandsflowers-2.0-1.19.2.jar)
+- minecraft:desert (from ferdinandsflowers-2.0-1.19.2.jar)
+
+#ferdinandsflowers:is_desert_blue
+- #minecraft:is_savanna (from ferdinandsflowers-2.0-1.19.2.jar)
+- #minecraft:is_badlands (from ferdinandsflowers-2.0-1.19.2.jar)
+- minecraft:desert (from ferdinandsflowers-2.0-1.19.2.jar)
+
+#croptopia:has_crop/rhubarb
+- minecraft:jungle (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:sparse_jungle (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:bamboo_jungle (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:crag_gardens? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:guiana_shield? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:jacaranda_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:tropical_rainforest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:jungle_mountains? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:rocky_jungle? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:tropical_jungle? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+
+#minecraft:has_structure/ocean_monument
+- #minecraft:is_deep_ocean (from Default)
+
+#forge:is_sandy
+- minecraft:desert (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:beach (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:badlands (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:wooded_badlands (from forge-1.19.2-43.2.3-universal.jar)
+- biomesoplenty:dune_beach (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:lush_desert (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:dryland (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#minecraft:has_structure/ruined_portal_jungle
+- #minecraft:is_jungle (from Default)
+
+#quark:stoneling_pathfinding
+- quark:glimmering_weald (from Quark-3.4-386.jar)
+
+#minecraft:plays_underwater_music
+- #minecraft:is_ocean (from Default)
+- #minecraft:is_river (from Default)
+
+#minecraft:has_structure/desert_pyramid
+- minecraft:desert (from Default)
+
+#ferdinandsflowers:is_wisteria
+- minecraft:dark_forest (from ferdinandsflowers-2.0-1.19.2.jar)
+- minecraft:swamp (from ferdinandsflowers-2.0-1.19.2.jar)
+- minecraft:mangrove_swamp (from ferdinandsflowers-2.0-1.19.2.jar)
+- minecraft:sparse_jungle (from ferdinandsflowers-2.0-1.19.2.jar)
+- minecraft:bamboo_jungle (from ferdinandsflowers-2.0-1.19.2.jar)
+
+#botania:mystical_flower_blocklist
+- #forge:is_mushroom? (from Botania-1.19.2-436-FORGE.jar)
+- #c:mushroom? (from Botania-1.19.2-436-FORGE.jar)
+
+#blue_skies:dripstones_drip_lava
+- blue_skies:searing_grassland (from blue_skies-1.19.2-1.3.20.jar)
+- blue_skies:sunset_maple_forest (from blue_skies-1.19.2-1.3.20.jar)
+- #minecraft:is_nether (from blue_skies-1.19.2-1.3.20.jar)
+
+#forge:is_plateau
+- minecraft:savanna_plateau (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:wooded_badlands (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:meadow (from forge-1.19.2-43.2.3-universal.jar)
+- biomesoplenty:rocky_rainforest (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#croptopia:has_crop/kale
+- minecraft:plains (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:sunflower_plains (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:allium_fields? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:amaranth_fields? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:autumnal_valley? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:temperate_grove? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:coconino_meadow? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:orchard? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:prairie? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:rose_fields? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:sierra_badlands? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+
+#delightful:cantaloupe_spawns
+- #minecraft:is_beach (from Delightful-1.19-3.2.1.jar)
+
+#forge:is_lush
+- minecraft:lush_caves (from forge-1.19.2-43.2.3-universal.jar)
+- biomesoplenty:bamboo_grove (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:cherry_blossom_grove (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:clover_patch (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:dune_beach (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:floodplain (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:fungal_jungle (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:lavender_field (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:lavender_forest (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:lush_desert (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:lush_savanna (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:mystic_grove (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:orchard (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:rainforest (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:rocky_rainforest (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:tropics (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#forge:is_dry/overworld
+- minecraft:desert (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:badlands (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:wooded_badlands (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:windswept_savanna (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:eroded_badlands (from forge-1.19.2-43.2.3-universal.jar)
+- biomesoplenty:cold_desert (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:dryland (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:pasture (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:prairie (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:shrubland (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:volcano (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:wasteland (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:wooded_wasteland (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#croptopia:has_crop/hops
+- minecraft:savanna (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:savanna_plateau (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:windswept_savanna (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:arid_highlands? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:brushland? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:fractured_savanna? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:savanna_badlands? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:savanna_slopes? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+
+#croptopia:has_crop/tomatillo
+- minecraft:forest (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:flower_forest (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:birch_forest (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:dark_forest (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:old_growth_birch_forest (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:grove (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:birch_taiga? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:cloud_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:lavender_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:lavender_valley? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:moonlight_grove? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:moonlight_valley? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:temperate_highlands? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+
+#minecraft:has_structure/woodland_mansion
+- minecraft:dark_forest (from Default)
+- biomesoplenty:dead_forest? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:ominous_woods? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:woodland? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#botania:marimorphosis_plains_bonus
+- #forge:is_plains (from Botania-1.19.2-436-FORGE.jar)
+- #minecraft:is_beach (from Botania-1.19.2-436-FORGE.jar)
+
+#pneumaticcraft:has_underground_oil_lakes
+- #minecraft:is_overworld (from pneumaticcraft-repressurized-1.19.2-4.2.0-16.jar)
+
+#forge:is_void
+- minecraft:the_void (from forge-1.19.2-43.2.3-universal.jar)
+
+#croptopia:has_crop/turmeric
+- minecraft:savanna (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:savanna_plateau (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:windswept_savanna (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:araucaria_savanna? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:baobab_savanna? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:arid_highlands? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:brushland? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:fractured_savanna? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:savanna_badlands? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:savanna_slopes? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+
+#allthemodium:has_structure/dungeon_biomes
+- allthemodium:warped_forest (from allthemodium-2.1.5-1.19.2-43.1.1.jar)
+
+#croptopia:has_crop/currant
+- minecraft:swamp (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:mirage_isles? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:orchid_swamp? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+
+#minecraft:has_structure/ocean_ruin_warm
+- minecraft:lukewarm_ocean (from Default)
+- minecraft:warm_ocean (from Default)
+- minecraft:deep_lukewarm_ocean (from Default)
+
+#croptopia:has_crop/blackbean
+- minecraft:forest (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:flower_forest (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:birch_forest (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:dark_forest (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:old_growth_birch_forest (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:grove (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:birch_taiga? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:cloud_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:lavender_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:lavender_valley? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:moonlight_grove? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:moonlight_valley? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:temperate_highlands? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+
+#botania:marimorphosis_taiga_bonus
+- #forge:is_coniferous (from Botania-1.19.2-436-FORGE.jar)
+- #forge:is_cold (from Botania-1.19.2-436-FORGE.jar)
+- #forge:is_snowy (from Botania-1.19.2-436-FORGE.jar)
+
+#forge:is_twilight
+
+#botania:mystical_mushroom_spawnlist
+- #minecraft:is_overworld (from Botania-1.19.2-436-FORGE.jar)
+- #minecraft:is_nether (from Botania-1.19.2-436-FORGE.jar)
+
+#forge:is_mushroom
+- minecraft:mushroom_fields (from forge-1.19.2-43.2.3-universal.jar)
+- biomesoplenty:fungal_jungle (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:glowing_grotto (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- quark:glimmering_weald (from Quark-3.4-386.jar)
+
+#croptopia:has_crop/pineapple
+- minecraft:jungle (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:sparse_jungle (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:bamboo_jungle (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:crag_gardens? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:guiana_shield? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:jacaranda_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:tropical_rainforest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:jungle_mountains? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:rocky_jungle? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:tropical_jungle? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+
+#blue_skies:shade_monitor/white_and_purple
+- blue_skies:crystal_roughs (from blue_skies-1.19.2-1.3.20.jar)
+
+#botania:mystical_mushroom_blocklist
+
+#blue_skies:has_sandstorms
+- blue_skies:crystal_dunes (from blue_skies-1.19.2-1.3.20.jar)
+- blue_skies:crystal_dunes_spikes (from blue_skies-1.19.2-1.3.20.jar)
+
+#croptopia:has_crop/radish
+- minecraft:forest (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:flower_forest (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:birch_forest (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:dark_forest (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:old_growth_birch_forest (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:grove (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:aspen_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:borealis_grove? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:cherry_blossom_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:cika_woods? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:ebony_woods? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:forgotten_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:red_oak_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:autumnal_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:redwood_thicket? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:fragment_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:twilight_meadow? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:weeping_witch_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- byg:temperate_rainforest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:birch_taiga? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:cloud_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:lavender_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:lavender_valley? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:moonlight_grove? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:moonlight_valley? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:temperate_highlands? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+
+#botania:marimorphosis_fungal_bonus
+- #forge:is_mushroom (from Botania-1.19.2-436-FORGE.jar)
+- #forge:is_underground (from Botania-1.19.2-436-FORGE.jar)
+
+#minecraft:is_overworld
+- minecraft:mushroom_fields (from Default)
+- minecraft:deep_frozen_ocean (from Default)
+- minecraft:frozen_ocean (from Default)
+- minecraft:deep_cold_ocean (from Default)
+- minecraft:cold_ocean (from Default)
+- minecraft:deep_ocean (from Default)
+- minecraft:ocean (from Default)
+- minecraft:deep_lukewarm_ocean (from Default)
+- minecraft:lukewarm_ocean (from Default)
+- minecraft:warm_ocean (from Default)
+- minecraft:stony_shore (from Default)
+- minecraft:swamp (from Default)
+- minecraft:mangrove_swamp (from Default)
+- minecraft:snowy_slopes (from Default)
+- minecraft:snowy_plains (from Default)
+- minecraft:snowy_beach (from Default)
+- minecraft:windswept_gravelly_hills (from Default)
+- minecraft:grove (from Default)
+- minecraft:windswept_hills (from Default)
+- minecraft:snowy_taiga (from Default)
+- minecraft:windswept_forest (from Default)
+- minecraft:taiga (from Default)
+- minecraft:plains (from Default)
+- minecraft:meadow (from Default)
+- minecraft:beach (from Default)
+- minecraft:forest (from Default)
+- minecraft:old_growth_spruce_taiga (from Default)
+- minecraft:flower_forest (from Default)
+- minecraft:birch_forest (from Default)
+- minecraft:dark_forest (from Default)
+- minecraft:savanna_plateau (from Default)
+- minecraft:savanna (from Default)
+- minecraft:jungle (from Default)
+- minecraft:badlands (from Default)
+- minecraft:desert (from Default)
+- minecraft:wooded_badlands (from Default)
+- minecraft:jagged_peaks (from Default)
+- minecraft:stony_peaks (from Default)
+- minecraft:frozen_river (from Default)
+- minecraft:river (from Default)
+- minecraft:ice_spikes (from Default)
+- minecraft:old_growth_pine_taiga (from Default)
+- minecraft:sunflower_plains (from Default)
+- minecraft:old_growth_birch_forest (from Default)
+- minecraft:sparse_jungle (from Default)
+- minecraft:bamboo_jungle (from Default)
+- minecraft:eroded_badlands (from Default)
+- minecraft:windswept_savanna (from Default)
+- minecraft:frozen_peaks (from Default)
+- minecraft:dripstone_caves (from Default)
+- minecraft:lush_caves (from Default)
+- minecraft:deep_dark (from Default)
+- biomesoplenty:auroral_garden? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:bamboo_grove? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:bayou? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:bog? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:cherry_blossom_grove? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:clover_patch? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:cold_desert? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:coniferous_forest? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:crag? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:dead_forest? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:dryland? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:dune_beach? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:field? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:fir_clearing? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:floodplain? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:forested_field? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:fungal_jungle? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:glowing_grotto? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:grassland? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:highland? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:highland_moor? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:jade_cliffs? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:lavender_field? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:lavender_forest? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:lush_desert? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:lush_savanna? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:maple_woods? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:marsh? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:mediterranean_forest? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:muskeg? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:mystic_grove? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:old_growth_dead_forest? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:old_growth_woodland? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:ominous_woods? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:orchard? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:origin_valley? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:pasture? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:prairie? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:pumpkin_patch? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:rainforest? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:redwood_forest? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:rocky_rainforest? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:rocky_shrubland? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:scrubland? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:seasonal_forest? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:seasonal_orchard? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:shrubland? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:snowy_coniferous_forest? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:snowy_fir_clearing? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:snowy_maple_woods? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:spider_nest? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:tropics? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:tundra? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:volcanic_plains? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:volcano? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:wasteland? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:wetland? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:wooded_scrubland? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:wooded_wasteland? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:woodland? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- #ars_nouveau:archwood_biome (from ars_nouveau-1.19.2-3.8.0.jar)
+- quark:glimmering_weald (from Quark-3.4-386.jar)
+
+#minecraft:has_structure/village_savanna
+- minecraft:savanna (from Default)
+- biomesoplenty:dryland? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#minecraft:without_patrol_spawns
+- minecraft:mushroom_fields (from Default)
+- biomesoplenty:origin_valley? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:tropics? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#croptopia:has_crop/blueberry
+- minecraft:forest (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:flower_forest (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:birch_forest (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:dark_forest (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:old_growth_birch_forest (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:old_growth_pine_taiga (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:old_growth_spruce_taiga (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:taiga (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:snowy_taiga (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:grove (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:alpine_highlands? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:birch_taiga? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:cloud_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:lavender_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:lavender_valley? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:moonlight_grove? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:moonlight_valley? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:temperate_highlands? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+
+#ferdinandsflowers:is_water_purple
+- minecraft:river (from ferdinandsflowers-2.0-1.19.2.jar)
+- minecraft:swamp (from ferdinandsflowers-2.0-1.19.2.jar)
+- minecraft:mangrove_swamp (from ferdinandsflowers-2.0-1.19.2.jar)
+
+#minecraft:has_structure/village_taiga
+- minecraft:taiga (from Default)
+- biomesoplenty:coniferous_forest? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:dead_forest? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:field? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:maple_woods? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:tundra? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#croptopia:has_crop/lettuce
+- minecraft:plains (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:sunflower_plains (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:blooming_plateau? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:blooming_valley? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:highlands? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:steppe? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:valley_clearing? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+
+#ars_nouveau:summon_spawn
+- #minecraft:is_overworld (from ars_nouveau-1.19.2-3.8.0.jar)
+
+#minecraft:has_closer_water_fog
+- minecraft:swamp (from Default)
+- minecraft:mangrove_swamp (from Default)
+- biomesoplenty:bayou? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:bog? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:floodplain? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:fungal_jungle? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:marsh? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:mystic_grove? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:ominous_woods? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:rainforest? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:rocky_rainforest? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:volcanic_plains? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:volcano? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:wasteland? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:wetland? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:wooded_wasteland? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#ferdinandsflowers:is_lilac
+- #minecraft:is_taiga (from ferdinandsflowers-2.0-1.19.2.jar)
+- #minecraft:is_hill (from ferdinandsflowers-2.0-1.19.2.jar)
+- minecraft:meadow (from ferdinandsflowers-2.0-1.19.2.jar)
+
+#ferdinandsflowers:is_beach_purple
+- minecraft:beach (from ferdinandsflowers-2.0-1.19.2.jar)
+- minecraft:stony_shore (from ferdinandsflowers-2.0-1.19.2.jar)
+
+#croptopia:has_crop/pepper
+- minecraft:plains (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:sunflower_plains (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:ashen_savanna? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:blooming_plateau? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:blooming_plateau? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:blooming_valley? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:blooming_valley? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:highlands? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:highlands? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:steppe? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:steppe? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:valley_clearing? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:valley_clearing? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+
+#supplementaries:has_wild_flax
+- #minecraft:is_overworld (from Supplementaries Generated Pack)
+
+#ferdinandsflowers:is_jungle_peach
+- minecraft:jungle (from ferdinandsflowers-2.0-1.19.2.jar)
+- minecraft:bamboo_jungle (from ferdinandsflowers-2.0-1.19.2.jar)
+
+#minecraft:without_wandering_trader_spawns
+- minecraft:the_void (from Default)
+
+#minecraft:has_structure/ruined_portal_desert
+- minecraft:desert (from Default)
+- biomesoplenty:cold_desert? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:dryland? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:lush_desert? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:lush_savanna? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:volcanic_plains? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:wasteland? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:wooded_wasteland? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#forge:is_dense
+- #forge:is_dense/overworld (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:is_dense/nether? (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:is_dense/end? (from forge-1.19.2-43.2.3-universal.jar)
+- integrateddynamics:meneglin (from IntegratedDynamics-1.19.2-1.14.6.jar)
+
+#minecraft:has_structure/ruined_portal_swamp
+- minecraft:swamp (from Default)
+- minecraft:mangrove_swamp (from Default)
+- biomesoplenty:bayou? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:bog? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:marsh? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:wetland? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#minecraft:spawns_cold_variant_frogs
+- minecraft:snowy_plains (from Default)
+- minecraft:ice_spikes (from Default)
+- minecraft:frozen_peaks (from Default)
+- minecraft:jagged_peaks (from Default)
+- minecraft:snowy_slopes (from Default)
+- minecraft:frozen_ocean (from Default)
+- minecraft:deep_frozen_ocean (from Default)
+- minecraft:grove (from Default)
+- minecraft:deep_dark (from Default)
+- minecraft:frozen_river (from Default)
+- minecraft:snowy_taiga (from Default)
+- minecraft:snowy_beach (from Default)
+- #minecraft:is_end (from Default)
+- biomesoplenty:auroral_garden? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:cold_desert? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:muskeg? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:snowy_coniferous_forest? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:snowy_fir_clearing? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:snowy_maple_woods? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:tundra? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#ferdinandsflowers:is_water_joy
+- minecraft:river (from ferdinandsflowers-2.0-1.19.2.jar)
+- minecraft:swamp (from ferdinandsflowers-2.0-1.19.2.jar)
+- minecraft:mangrove_swamp (from ferdinandsflowers-2.0-1.19.2.jar)
+
+#minecraft:is_end
+- minecraft:the_end (from Default)
+- minecraft:end_highlands (from Default)
+- minecraft:end_midlands (from Default)
+- minecraft:small_end_islands (from Default)
+- minecraft:end_barrens (from Default)
+
+#croptopia:has_crop/broccoli
+- minecraft:plains (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:sunflower_plains (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:blooming_plateau? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:blooming_valley? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:highlands? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:steppe? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:valley_clearing? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+
+#forge:is_underground
+- darkerdepths:molten_cavern (from DarkerDepths-1.19-1.0.6-patch3.jar)
+- darkerdepths:sandy_catacombs (from DarkerDepths-1.19-1.0.6-patch3.jar)
+- darkerdepths:glowshroom_forest (from DarkerDepths-1.19-1.0.6-patch3.jar)
+- #forge:is_cave (from forge-1.19.2-43.2.3-universal.jar)
+- biomesoplenty:glowing_grotto (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:spider_nest (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- quark:glimmering_weald (from Quark-3.4-386.jar)
+
+#ferdinandsflowers:is_lavender
+- #minecraft:is_taiga (from ferdinandsflowers-2.0-1.19.2.jar)
+- #minecraft:is_hill (from ferdinandsflowers-2.0-1.19.2.jar)
+- #minecraft:is_forest (from ferdinandsflowers-2.0-1.19.2.jar)
+- minecraft:meadow (from ferdinandsflowers-2.0-1.19.2.jar)
+
+#minecraft:without_zombie_sieges
+- minecraft:mushroom_fields (from Default)
+- biomesoplenty:origin_valley? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:tropics? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#geode:has_echo_geode
+- deeperdarker:echoing_forest (from deeperdarker-forge-1.1.6-forge.jar)
+- deeperdarker:otherside_deeplands (from deeperdarker-forge-1.1.6-forge.jar)
+- deeperdarker:overcast_columns (from deeperdarker-forge-1.1.6-forge.jar)
+
+#croptopia:has_crop/olive
+- minecraft:savanna (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:savanna_plateau (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:windswept_savanna (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:arid_highlands? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:brushland? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:fractured_savanna? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:savanna_badlands? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:savanna_slopes? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+
+#ferdinandsflowers:is_desert_orange
+- #minecraft:is_savanna (from ferdinandsflowers-2.0-1.19.2.jar)
+- #minecraft:is_badlands (from ferdinandsflowers-2.0-1.19.2.jar)
+- minecraft:desert (from ferdinandsflowers-2.0-1.19.2.jar)
+
+#minecraft:is_taiga
+- minecraft:taiga (from Default)
+- minecraft:snowy_taiga (from Default)
+- minecraft:old_growth_pine_taiga (from Default)
+- minecraft:old_growth_spruce_taiga (from Default)
+- biomesoplenty:bog? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:coniferous_forest? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:dead_forest? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:field? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:fir_clearing? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:maple_woods? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:old_growth_dead_forest? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:ominous_woods? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:tundra? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#minecraft:spawns_warm_variant_frogs
+- minecraft:desert (from Default)
+- minecraft:warm_ocean (from Default)
+- #minecraft:is_jungle (from Default)
+- #minecraft:is_savanna (from Default)
+- #minecraft:is_nether (from Default)
+- #minecraft:is_badlands (from Default)
+- minecraft:mangrove_swamp (from Default)
+- biomesoplenty:bayou? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:floodplain? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:fungal_jungle? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:lush_desert? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:lush_savanna? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:volcanic_plains? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:volcano? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:wasteland? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:wooded_wasteland? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#ferdinandsflowers:is_beach_blue
+- minecraft:beach (from ferdinandsflowers-2.0-1.19.2.jar)
+- minecraft:stony_shore (from ferdinandsflowers-2.0-1.19.2.jar)
+
+#minecraft:mineshaft_blocking
+- minecraft:deep_dark (from Default)
+
+#forge:is_wasteland
+- minecraft:snowy_plains (from forge-1.19.2-43.2.3-universal.jar)
+- biomesoplenty:crag (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:volcanic_plains (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:volcano (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:wasteland (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:wooded_wasteland (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#allthemodium:has_structure/ancient_pyramid_biomes
+- allthemodium:soul_sand_valley (from allthemodium-2.1.5-1.19.2-43.1.1.jar)
+
+#ars_elemental:siren_spawn
+- #minecraft:produces_corals_from_bonemeal (from ars_elemental-1.19.2-0.5.7.1.jar)
+- ars_nouveau:archwood_forest (from ars_elemental-1.19.2-0.5.7.1.jar)
+
+#croptopia:has_crop/elderberry
+- minecraft:forest (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:flower_forest (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:birch_forest (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:dark_forest (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:old_growth_birch_forest (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:grove (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:birch_taiga? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:cloud_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:lavender_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:lavender_valley? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:moonlight_grove? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:moonlight_valley? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:temperate_highlands? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+
+#croptopia:has_crop/cabbage
+- minecraft:plains (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:sunflower_plains (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:blooming_plateau? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:blooming_valley? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:highlands? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:steppe? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:valley_clearing? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+
+#minecraft:has_structure/village_snowy
+- minecraft:snowy_plains (from Default)
+- biomesoplenty:cold_desert? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:snowy_coniferous_forest? (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#productivebees:warm_ocean
+- minecraft:warm_ocean (from productivebees-1.19.2-0.10.4.0.jar)
+
+#croptopia:has_crop/leek
+- minecraft:savanna (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:savanna_plateau (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:windswept_savanna (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:arid_highlands? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:brushland? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:fractured_savanna? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:savanna_badlands? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:savanna_slopes? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+
+#botania:marimorphosis_swamp_bonus
+- #forge:is_swamp (from Botania-1.19.2-436-FORGE.jar)
+- #minecraft:is_jungle (from Botania-1.19.2-436-FORGE.jar)
+
+#hexerei:has_structure/dark_coven_biomes
+- minecraft:swamp (from hexerei-0.2.5.jar)
+
+#ferdinandsflowers:is_venus
+- minecraft:sparse_jungle (from ferdinandsflowers-2.0-1.19.2.jar)
+- minecraft:mangrove_swamp (from ferdinandsflowers-2.0-1.19.2.jar)
+- minecraft:swamp (from ferdinandsflowers-2.0-1.19.2.jar)
+
+#ferdinandsflowers:is_water_sunfire
+- minecraft:river (from ferdinandsflowers-2.0-1.19.2.jar)
+- minecraft:swamp (from ferdinandsflowers-2.0-1.19.2.jar)
+- minecraft:mangrove_swamp (from ferdinandsflowers-2.0-1.19.2.jar)
+
+#botania:marimorphosis_mesa_bonus
+- #minecraft:is_badlands (from Botania-1.19.2-436-FORGE.jar)
+- #minecraft:is_savanna (from Botania-1.19.2-436-FORGE.jar)
+
+#allthemodium:mining_features/other_features
+- allthemodium:soul_sand_valley (from allthemodium-2.1.5-1.19.2-43.1.1.jar)
+- allthemodium:desert_hills (from allthemodium-2.1.5-1.19.2-43.1.1.jar)
+- allthemodium:desert (from allthemodium-2.1.5-1.19.2-43.1.1.jar)
+- allthemodium:warped_forest (from allthemodium-2.1.5-1.19.2-43.1.1.jar)
+- allthemodium:crimson_forest (from allthemodium-2.1.5-1.19.2-43.1.1.jar)
+- allthemodium:the_other (from allthemodium-2.1.5-1.19.2-43.1.1.jar)
+
+#croptopia:has_crop/zucchini
+- minecraft:savanna (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:savanna_plateau (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:windswept_savanna (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:arid_highlands? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:brushland? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:fractured_savanna? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:savanna_badlands? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:savanna_slopes? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+
+#croptopia:has_crop/asparagus
+- minecraft:swamp (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:mirage_isles? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:orchid_swamp? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+
+#minecraft:reduce_water_ambient_spawns
+- #minecraft:is_river (from Default)
+
+#croptopia:has_crop/onion
+- minecraft:jungle (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:sparse_jungle (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- minecraft:bamboo_jungle (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:alpine_grove? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:forested_highlands? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:jungle_mountains? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:lush_valley? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:rocky_jungle? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:siberian_grove? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:siberian_taiga? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:snowy_maple_forest? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:snowy_shield? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:tropical_jungle? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+- terralith:yosemite_lowlands? (from Croptopia-1.19.2-FORGE-2.2.2.jar)
+
+#ferdinandsflowers:is_fungus_violet_end
+- #minecraft:is_end (from ferdinandsflowers-2.0-1.19.2.jar)
+- minecraft:basalt_deltas (from ferdinandsflowers-2.0-1.19.2.jar)
+
+#forge:is_spooky
+- minecraft:dark_forest (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:deep_dark (from forge-1.19.2-43.2.3-universal.jar)
+- biomesoplenty:ominous_woods (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+- biomesoplenty:spider_nest (from BiomesOPlenty-1.19.2-17.1.1.162.jar)
+
+#ferdinandsflowers:is_fungus_blue_nether
+- minecraft:warped_forest (from ferdinandsflowers-2.0-1.19.2.jar)
+- minecraft:soul_sand_valley (from ferdinandsflowers-2.0-1.19.2.jar)
+
+#ferdinandsflowers:is_cherry
+- #minecraft:is_taiga (from ferdinandsflowers-2.0-1.19.2.jar)
+- #minecraft:is_forest (from ferdinandsflowers-2.0-1.19.2.jar)
+- #minecraft:is_hill (from ferdinandsflowers-2.0-1.19.2.jar)

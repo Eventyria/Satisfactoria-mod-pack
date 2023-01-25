@@ -1,0 +1,7 @@
+#Show effect colors in tooltip
+effect_color = true
+#Draw a black box behind effect icons
+effect_box = true
+#A list of effects that should not be registered nor shown in JEI
+hidden_effects = [""]
+

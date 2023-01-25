@@ -1,0 +1,10 @@
+
+[General]
+	#The basic difficulty of getting a better child (when the respective stats are equal). [default: MEDIUM]
+	#EASY - 1/1
+	#MEDIUM - 1/3
+	#HARD - 1/6
+	#IMPOSSIBLE - 1/10
+	#Allowed Values: EASY, MEDIUM, HARD, IMPOSSIBLE
+	breedDifficulty = "MEDIUM"
+

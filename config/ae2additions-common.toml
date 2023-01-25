@@ -1,0 +1,5 @@
+
+[meWirelessTransceiver]
+	basePower = 16
+	distanceMultiplier = 2.0
+
