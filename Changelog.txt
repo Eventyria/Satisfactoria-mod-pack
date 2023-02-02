@@ -6,8 +6,6 @@ Hexerei has been changed a bit. Ars has been changed a bit.
 
 Time In a bottle has been made harder to make!
 
- 
-
 Treated wood planks recipe has been made more complicated.
 
 And much more, honestly starting to forget what i have been changing haha
@@ -71,7 +69,6 @@ Mods removed:
 
 
 [B.0.1.0]
-
 
 Immersive now depends on create for certain recipes. This is to make sure one progress!
 Mekanism now depends on immersive, mainly the steel and circuits!
