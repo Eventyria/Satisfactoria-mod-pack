@@ -1,6 +1,13 @@
 craftingTable.removeByName("immersiveengineering:crafting/conveyor_basic");
 craftingTable.removeByName("immersiveengineering:crafting/conveyor_vertical");
 craftingTable.removeByName("immersiveengineering:crafting/component_steel");
+craftingTable.removeByName("immersiveengineering:crafting/blueprint_bannerpatterns");
+craftingTable.removeByName("immersiveengineering:crafting/blueprint_components");
+craftingTable.removeByName("immersiveengineering:crafting/blueprint_bullets");
+craftingTable.removeByName("immersiveengineering:crafting/blueprint_molds");
+craftingTable.removeByName("immersiveengineering:crafting/workbench");
+craftingTable.removeByName("immersiveengineering:crafting/treated_wood_horizontal");
+<recipetype:create:filling>.removeByName("createaddition:filling/treated_wood_planks");
 <recipetype:immersiveengineering:blueprint>.removeByName("immersiveengineering:blueprint/electron_tube");
 <recipetype:immersiveengineering:blueprint>.removeByName("immersiveengineering:blueprint/light_bulb");
 <recipetype:immersiveengineering:blueprint>.removeByName("immersiveengineering:blueprint/component_electronic_adv");
@@ -10,6 +17,34 @@ craftingTable.removeByName("immersiveengineering:crafting/component_steel");
 // removed from blast furnace
 <recipetype:immersiveengineering:blast_furnace>.removeByName("immersiveengineering:blastfurnace/steel_block");
 <recipetype:immersiveengineering:blast_furnace>.removeByName("immersiveengineering:blastfurnace/steel");
+// Common
+craftingTable.addShaped("complicated_workbench", <item:immersiveengineering:workbench>, [
+    [<item:minecraft:anvil>, <item:minecraft:air>, <item:minecraft:air>],
+    [<tag:items:forge:treated_wood_slab>, <tag:items:forge:treated_wood_slab>, <tag:items:forge:treated_wood_slab>],
+    [<item:immersiveengineering:craftingtable>, <item:create:precision_mechanism>, <item:immersiveengineering:treated_fence>]]);
+// Create Spout
+<recipetype:create:filling>.addRecipe("wet_treated_wood_planks", <item:kubejs:treated_wood_wet> % 100.0, <tag:items:minecraft:planks>, <fluid:immersiveengineering:creosote> * 125);
+smoker.addRecipe("treated_wood_planks", <item:immersiveengineering:treated_wood_horizontal>, <item:kubejs:treated_wood_wet>, 0.0, 100);
+// Blueprints
+craftingTable.addShaped("complicated_banner_bp", <item:immersiveengineering:blueprint>.withTag({blueprint: "bannerpatterns"}), [
+    [<item:minecraft:air>, <item:minecraft:white_banner>, <item:minecraft:air>],
+    [<item:minecraft:blue_dye>, <item:minecraft:blue_dye>, <item:minecraft:blue_dye>],
+    [<item:immersiveengineering:hemp_fabric>, <item:immersiveengineering:hemp_fabric>, <item:immersiveengineering:hemp_fabric>]]);
+
+craftingTable.addShaped("complicated_comp_bp", <item:immersiveengineering:blueprint>.withTag({blueprint: "components"}), [
+    [<tag:items:forge:ingots/copper>, <tag:items:forge:ingots/aluminum>, <tag:items:forge:ingots/iron>],
+    [<item:minecraft:blue_dye>, <item:minecraft:blue_dye>, <item:minecraft:blue_dye>],
+    [<item:immersiveengineering:hemp_fabric>, <item:immersiveengineering:hemp_fabric>, <item:immersiveengineering:hemp_fabric>]]);
+
+craftingTable.addShaped("complicated_bullet_bp", <item:immersiveengineering:blueprint>.withTag({blueprint: "bullet"}), [
+    [<item:minecraft:gunpowder>, <item:immersiveengineering:empty_casing>, <item:minecraft:gunpowder>],
+    [<item:minecraft:blue_dye>, <item:minecraft:blue_dye>, <item:minecraft:blue_dye>],
+    [<item:immersiveengineering:hemp_fabric>, <item:immersiveengineering:hemp_fabric>, <item:immersiveengineering:hemp_fabric>]]);
+
+craftingTable.addShaped("complicated_press_bp", <item:immersiveengineering:blueprint>.withTag({blueprint: "molds"}), [
+    [<item:minecraft:air>, <item:create:iron_sheet>, <item:minecraft:air>],
+    [<item:minecraft:blue_dye>, <item:minecraft:blue_dye>, <item:minecraft:blue_dye>],
+    [<item:immersiveengineering:hemp_fabric>, <item:immersiveengineering:hemp_fabric>, <item:immersiveengineering:hemp_fabric>]]);
 // betls
 craftingTable.addShaped("complicated_conveyour_basic", <item:immersiveengineering:conveyor_basic> * 4, [
     [<item:minecraft:air>, <item:minecraft:leather>, <item:minecraft:air>],

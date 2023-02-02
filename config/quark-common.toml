@@ -34,6 +34,8 @@
 	"Enable Advancement Modification" = true
 	#Set to false to stop quark from adding its own advancements
 	"Enable Quark Advancements" = true
+	#Set to false to disable the popup message telling you that you can config quark in the q menu
+	"Enable Onboarding" = true
 
 [categories]
 	Automation = true
@@ -489,6 +491,7 @@
 	"Better Elytra Rocket" = true
 	"Automatic Recipe Unlock" = true
 	"Armed Armor Stands" = true
+	"Horses Swim" = true
 
 	[tweaks.utility_recipes]
 		#Can any wool color be dyed?
@@ -1522,6 +1525,9 @@
 		"Disable Ice Roads" = true
 		#Makes Sheep not drop Wool when killed
 		"Disable Wool Drops" = true
+		#Disables mob griefing for only specific entities
+		"Enable Selective Mob Griefing" = true
+		"Non Griefing Entities" = ["minecraft:creeper", "minecraft:enderman"]
 
 	[experimental.enchantments_begone]
 		"Enchantments To Begone" = []

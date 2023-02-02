@@ -11,7 +11,12 @@ craftingTable.removeByName("ae2:network/blocks/controller");
 craftingTable.removeByName("ae2:network/blocks/storage_drive");
 craftingTable.removeByName("ae2:network/cells/item_cell_housing");
 craftingTable.removeByName("ae2:network/cells/fluid_cell_housing");
+craftingTable.removeByName("appbot:mana_cell_housing");
 craftingTable.removeByName("ae2:network/crafting/cpu_crafting_unit");
+craftingTable.removeByName("ae2:network/wireless_part");
+craftingTable.removeByName("aeinfinitybooster:infinity_card");
+craftingTable.removeByName("ae2:network/blocks/cell_workbench");
+craftingTable.removeByName("ae2:network/blocks/storage_chest");
 // Deployer create
     // Engineerings processor
 <recipetype:create:sequenced_assembly>.addRecipe(<recipetype:create:sequenced_assembly>.builder("enginnering_pro_create")
@@ -41,6 +46,16 @@ craftingTable.removeByName("ae2:network/crafting/cpu_crafting_unit");
     .addStep<mods.createtweaker.DeployerApplicationRecipe>((rb) => rb.require(<item:ae2:printed_logic_processor>))
     .addStep<mods.createtweaker.PressingRecipe>((rb1) => rb1.duration(3500)));
 // Shaped recipes
+    // Cell workbench
+craftingTable.addShaped("complicated_cell_workbench", <item:ae2:cell_workbench>, [
+    [<tag:items:minecraft:wool>, <item:ae2:calculation_processor>, <tag:items:minecraft:wool>],
+    [<item:immersiveengineering:ingot_steel>, <tag:items:forge:chests>, <item:immersiveengineering:ingot_steel>],
+    [<item:immersiveengineering:ingot_steel>, <item:immersiveengineering:ingot_steel>, <item:immersiveengineering:ingot_steel>]]);
+    // Me chest
+craftingTable.addShaped("complicated_me_chest", <item:ae2:chest>, [
+    [<tag:items:forge:glass>, <item:ae2:terminal>, <tag:items:forge:glass>],
+    [<item:ae2:fluix_glass_cable>, <tag:items:forge:chests>, <item:ae2:fluix_glass_cable>],
+    [<item:immersiveengineering:ingot_steel>, <item:minecraft:copper_ingot>, <item:immersiveengineering:ingot_steel>]]);
     // Formation core
 craftingTable.addShaped("complicated_formation_core", <item:ae2:formation_core>, [
     [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>],
@@ -81,3 +96,18 @@ craftingTable.addShaped("complicated_me_drive", <item:ae2:drive>, [
     [<item:immersiveengineering:ingot_steel>, <item:ae2:engineering_processor>, <item:immersiveengineering:ingot_steel>],
     [<item:ae2:item_cell_housing>, <item:create:precision_mechanism>, <item:ae2:fluix_glass_cable>],
     [<item:immersiveengineering:ingot_steel>, <item:ae2:engineering_processor>, <item:immersiveengineering:ingot_steel>]]);
+// Mana cell housing
+craftingTable.addShaped("complicated_mana_housing", <item:appbot:mana_cell_housing>, [
+    [<item:ae2:quartz_glass>, <item:botania:life_essence>, <item:ae2:quartz_glass>],
+    [<item:botania:life_essence>, <item:thermal:gold_gear>, <item:botania:life_essence>],
+    [<item:botania:manasteel_ingot>, <item:botania:manasteel_ingot>, <item:botania:manasteel_ingot>]]);
+// Wireless receiver
+craftingTable.addShaped("complicated_wireless_receiver", <item:ae2:wireless_receiver>, [
+    [<item:ae2:fluix_pearl>, <item:rftoolsbase:infused_enderpearl>, <item:ae2:fluix_pearl>],
+    [<item:immersiveengineering:ingot_steel>, <item:ae2:quartz_fiber>, <item:immersiveengineering:ingot_steel>],
+    [<item:ae2:fluix_pearl>, <item:immersiveengineering:ingot_steel>, <item:ae2:fluix_pearl>]]);
+// Infinity booster
+craftingTable.addShaped("complicated_infinity_booster", <item:aeinfinitybooster:infinity_card>, [
+    [<item:ae2:wireless_receiver>, <item:ae2:wireless_booster>, <item:ae2:wireless_receiver>],
+    [<item:ae2:wireless_booster>, <item:ae2:quartz_fiber>, <item:ae2:wireless_booster>],
+    [<item:create_ore_excavation_plus:haunted_raw_netherite_scrap>, <item:create_ore_excavation_plus:haunted_raw_netherite_scrap>, <item:create_ore_excavation_plus:haunted_raw_netherite_scrap>]]);

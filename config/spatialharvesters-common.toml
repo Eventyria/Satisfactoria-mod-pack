@@ -344,9 +344,9 @@
 
 	["Spatial Harvesters - Common Config: "."Enable / Disable: "]
 		#Should the Chunk Loader have functionality?
-		enable_chunk_loader = true
+		enable_chunk_loader = false
 		#Should the Dimensional Applicator have functionality?
-		enable_dimensional_applicator = true
+		enable_dimensional_applicator = false
 		#Should the Heat Generator have functionality?
 		enable_heat_generator = true
 		#Should the Ore Harvesters have functionality?
