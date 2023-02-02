@@ -1,0 +1,92 @@
+[B.0.1.3]
+
+90% Done with getting AE2 the way i want it. Looking for inputs and ideas.
+
+Hexerei has been changed a bit. Ars has been changed a bit.
+
+Time In a bottle has been made harder to make!
+
+ 
+
+Treated wood planks recipe has been made more complicated.
+
+And much more, honestly starting to forget what i have been changing haha
+
+Some issues stated on our github has been fixed and added. See more here: https://github.com/Eventyria/Satisfactoria-mod-pack
+
+Mods Removed:
+
+- Few mods have been removed.
+
+Mods Added:
+- More of delights mods, such as builders delight.
+- Updated most of the mods.
+
+V. B.0.1.3 - Official dev/test server launch is today. Everyone will be having creative mode on join, and do not just make explosions. Try and stress the server with builds and so on thanks! Dev/Test Server ip will be posted on the discord.
+
+Purpose of this server is to help me find bugs and stress the server as much as possible. So players who join, will have create when joining! ( No Lag machines )
+
+
+
+[B.0.1.2]
+
+Biome of plenty has been removed together with terralith due to massive instability and random world crash. Was tested with and without both mods, and even terralith is not happy!!
+Croptopia has been completely fixed and now the trees and other crops are spawning in the world. Thanks to BYG working well together with this mod!
+Forge as been updated to: 43.2.4
+
+
+Config's has been optimised some more.
+This build contains no changed recipes nor items added. This is mainly to update and fix some overall performance issues, new build really soon.
+With a finished AE2 Overhaul and automated mining... If people wish to see changes to magic and their progressing, kindly help me with suggestions. I plan on starting on Magic the day after this update!
+
+Mods Removed:
+- BOP: Biome O' plenty: Macaw's Addons removed as well
+Mods Added:
+- BYG: oh the biomes you'll go
+- Yungs mods and addons added!
+- Oculus: Add's the option to play with shaders!
+
+
+
+[B.0.1.1]
+
+Removed productive bees till better solution comes.
+Custom fluid recipe added for diamonds in use for Mekanism alloys.
+Chunkloading behaviour changed a bit.
+Croptopia trees and more is still not generated in BOP.
+
+First phase of changes to AE2 has started!
+
+Mods added:
+
+    - The One probe mod
+    - LaserIO
+    - Naturalist
+
+Mods removed:
+
+    - Better animals
+    - productive bees
+
+
+
+[B.0.1.0]
+
+
+Immersive now depends on create for certain recipes. This is to make sure one progress!
+Mekanism now depends on immersive, mainly the steel and circuits!
+Mystical agri.. now depends on create for essence crafting completely.
+Standard gear recipes has been moved over to the immersive metal press, only way as of now to do so!!
+Some thermal recipes require the use of metal press and other immersive materials. Mainly due to the gear change! Some small things changed as well.
+
+
+Create to immersive: Completed = Some things are due to change!
+
+Minimum ram requirement for start: 6/7 GB - If less, boot screen might get stuck!
+
+V. B.0.1.0 - Next update will be focused on AE2 and anything related to automated mining. Will be going thru vanilla recipes and increase a few of them, material wise!
+
+Forge Version: 43.2.3
+
+
+
