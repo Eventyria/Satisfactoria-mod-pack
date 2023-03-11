@@ -1,0 +1,14 @@
+
+#Generator Energy Storage Config. This config is synced from server to client.
+[storage]
+	#Base energy storage (Joules).
+	heatGenerator = "130000"
+	#Base energy storage (Joules).
+	bioGenerator = "130000"
+	#Base energy storage (Joules).
+	solarGenerator = "90000"
+	#Base energy storage (Joules).
+	advancedSolarGenerator = "150000"
+	#Base energy storage (Joules).
+	windGenerator = "150000"
+
