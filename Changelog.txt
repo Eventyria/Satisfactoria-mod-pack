@@ -1,3 +1,10 @@
+[B.0.2.6]
+
+Fixed issues with some recipes, that outputted the wrong items. Again!
+Few issues with create appeared. This has been fixed!
+
+Overall stability upgrades as well. Hope performance is better now! 
+
 [B.0.1.3]
 
 90% Done with getting AE2 the way i want it. Looking for inputs and ideas.
